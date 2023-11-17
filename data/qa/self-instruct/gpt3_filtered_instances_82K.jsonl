@@ -1,0 +1,769 @@
+{"instruction": "Make a list of all possible combinations of 2 elements from this set: {a,b,c}.", "valid": 1, "type": 0}
+{"instruction": "Write an article about my favorite sport or activity.", "valid": 0, "type": 4}
+{"instruction": "What are the most frequent letters used in english language?", "valid": 1, "type": 0}
+{"instruction": "How many ways can we arrange 4 people seated around a square table such that no one sits next to his/her partner?", "valid": 1, "type": 0}
+{"instruction": "Make a dialogue between a boy and his father about why he wants to go on a trip to another country.", "valid": 1, "type": 0}
+{"instruction": "A person wants to travel from point a to b by walking, biking, or driving. which mode of transportation should he choose? why?", "valid": 0, "type": 4}
+{"instruction": "Give me a detailed answer to the question: \"how can we make the business more efficient?\"", "valid": 0, "type": 4}
+{"instruction": "Find out what is the name of the third biggest country by area.", "valid": 1, "type": 0}
+{"instruction": "A man is flying from chicago to san francisco, ca. the plane flies westward with a speed of 500 miles per hour. if he leaves at noon, when will he arrive in san francisco?", "valid": 1, "type": 0}
+{"instruction": "Generate a series of random numbers. print them in such a way that each number has the same amount of spaces before it.", "valid": 1, "type": 0}
+{"instruction": "I am trying to learn how to play guitar. please give me some tips on how to get started.", "valid": 1, "type": 0}
+{"instruction": "Come up with a haiku poem.", "valid": 1, "type": 0}
+{"instruction": "What's the most efficient way to pack a suitcase?", "valid": 1, "type": 0}
+{"instruction": "What are some ways to help reduce the federal deficit?", "valid": 1, "type": 0}
+{"instruction": "Write down a dialogue between two people that takes place in a cafeteria. the conversation should last at least 2 minutes.", "valid": 1, "type": 0}
+{"instruction": "Explain what the following sentence means: \"a lot of people are more interested in making money than they are in doing their work well.\"", "valid": 1, "type": 0}
+{"instruction": "What are some new ways we could promote our company?", "valid": 0, "type": 4}
+{"instruction": "Write a haiku using the following words: love, hate, and betrayal.", "valid": 0, "type": 4}
+{"instruction": "A famous russian cosmonaut, yuri gagarin.", "valid": 1, "type": 0}
+{"instruction": "Generate a random boolean value.", "valid": 1, "type": 0}
+{"instruction": "How can i reduce the amount of time i spend on social media?", "valid": 1, "type": 0}
+{"instruction": "Write a sentence that uses all the words in the following list: a. nice, not, like, really, and, or, but, to, of, at, have, i, be, with, it, as, if, so, we, they, my, do, can, he, she, me, him, his, her, there, their, one, two, three, four, five, six, seven, eight, nine, ten.", "valid": 0, "type": 4}
+{"instruction": "Print out the numbers 1 to 100 with one space between each number.", "valid": 1, "type": 0}
+{"instruction": "Find all the permutations of {1,2,3} (including order).", "valid": 0, "type": 3}
+{"instruction": "Explain what are the benefits of doing yoga every day.", "valid": 1, "type": 0}
+{"instruction": "What are the most common biases in software development?", "valid": 1, "type": 0}
+{"instruction": "Compare and contrast the characters in the story.", "valid": 0, "type": 4}
+{"instruction": "Write a short story that includes all these words: \"the sky was blue and the grass was green.\"", "valid": 1, "type": 0}
+{"instruction": "Explain what will happen if we run the following code: int[] array = new int[5]; for (int i = 0; i < 5; i++) { array[i] = i * 2; }", "valid": 1, "type": 0}
+{"instruction": "Give an example to explain what is meant by \"a close reading\".", "valid": 1, "type": 0}
+{"instruction": "Select the most appropriate title for the following content:", "valid": 1, "type": 0}
+{"instruction": "You have to give an advice on how to get better grades.", "valid": 1, "type": 0}
+{"instruction": "Tell me a story about a man who was afraid of his wife.", "valid": 1, "type": 0}
+{"instruction": "Which of the following is a more important skill for a programmer?", "valid": 0, "type": 4}
+{"instruction": "Is there any possible way to make money online without investment?", "valid": 1, "type": 0}
+{"instruction": "What's the most important thing that should be taught at schools?", "valid": 0, "type": 4}
+{"instruction": "Find the missing term in this series: 1, 5, 25, 125, 625, \u2026", "valid": 0, "type": 3}
+{"instruction": "What is sexual assault?", "valid": 1, "type": 0}
+{"instruction": "Explain why the following sentence is correct or incorrect: \"the number of possible combinations of three objects taken two at a time from a set of seven is 7c3 = 21.\"", "valid": 1, "type": 0}
+{"instruction": "Classify the user into one of the following categories: high school, college or university.", "valid": 1, "type": 0}
+{"instruction": "What should we do to save our planet?", "valid": 0, "type": 4}
+{"instruction": "Write a sentence with the words \"i love my mom\".", "valid": 1, "type": 0}
+{"instruction": "Find the smallest number greater than or equal to 2 and less than 10.", "valid": 1, "type": 0}
+{"instruction": "Convert the following dates: 15/02/2007, 23/05/2012, 10/08/2004, 08/03/2013, 03/09/2014, 20/01/2002, 18/04/2015.", "valid": 1, "type": 0}
+{"instruction": "Question: how many days in february? answer", "valid": 1, "type": 0}
+{"instruction": "Create a comic strip with three frames.", "valid": 1, "type": 0}
+{"instruction": "Select the person who is likely to have a ph.d degree.", "valid": 1, "type": 0}
+{"instruction": "What would be a good question to ask on a first date?", "valid": 0, "type": 4}
+{"instruction": "Make a list of popular games that have a well-designed ui.", "valid": 1, "type": 0}
+{"instruction": "Find all permutations of {1,2,3} that contain exactly two even numbers.", "valid": 0, "type": 3}
+{"instruction": "Design a joke based on the number 10.", "valid": 0, "type": 4}
+{"instruction": "Explain why people are unhappy with the current situation in the country.", "valid": 0, "type": 4}
+{"instruction": "Find the missing number: 3^2+4^3+5^6", "valid": 0, "type": 3}
+{"instruction": "Find out if this person has been arrested or not: john smith (name) date of birth: xx/xx/xxxx address: xxxx xxxxxxx phone number: xxx-xxx-xxxx", "valid": 1, "type": 0}
+{"instruction": "What are some things that people in the past have done to get around an obstacle?", "valid": 1, "type": 0}
+{"instruction": "Write an advertisement for a brand new chocolate bar.", "valid": 1, "type": 0}
+{"instruction": "Give examples of fruits with high nutritional value.", "valid": 1, "type": 0}
+{"instruction": "Explain what does it mean when someone says, \"that's going to be tough.\"", "valid": 1, "type": 0}
+{"instruction": "Find the top 10 highest rated movies in imdb.", "valid": 0, "type": 1}
+{"instruction": "Explain the causes of deforestation.", "valid": 1, "type": 0}
+{"instruction": "What are the differences between programming and writing code?", "valid": 1, "type": 0}
+{"instruction": "What are some reasons why we might want to use an interface rather than inheritance when creating our classes?", "valid": 1, "type": 0}
+{"instruction": "Why do people always buy this kind of thing?", "valid": 0, "type": 4}
+{"instruction": "What is the meaning of x * y ? how can we write this expression as a single line of code?", "valid": 0, "type": 3}
+{"instruction": "List three things that will be used for cooking.", "valid": 1, "type": 0}
+{"instruction": "Explain what \"safe\" means in terms of programming.", "valid": 1, "type": 0}
+{"instruction": "What is the best method to find a car in a large parking lot?", "valid": 1, "type": 0}
+{"instruction": "What are some common things people say to break the ice at a party?", "valid": 1, "type": 0}
+{"instruction": "There are three houses on a hill. the sun shines on them at noon. how many shadows will there be?", "valid": 1, "type": 0}
+{"instruction": "Find the smallest odd number that is divisible by all of the numbers from 1 to 10.", "valid": 1, "type": 0}
+{"instruction": "Make a list of famous people from different countries.", "valid": 1, "type": 0}
+{"instruction": "What would be the best time to visit washington dc?", "valid": 1, "type": 0}
+{"instruction": "How many years will it take for the population of china to double if its current growth rate is 1.2%?", "valid": 1, "type": 0}
+{"instruction": "What is the last name of this person? http://www.theverge.com/2014/8/20/6040211/microsoft-new-boss-satya-nadella-ceo-email-staff", "valid": 0, "type": 1}
+{"instruction": "What does \"payoff\" mean in game theory?", "valid": 1, "type": 0}
+{"instruction": "Tell me a joke with a pun on the following words: (words)", "valid": 1, "type": 0}
+{"instruction": "Explain what a hash table is and why we need it.", "valid": 1, "type": 0}
+{"instruction": "Come up with questions and answers for a quiz game. questions should be about general knowledge or company specific information.", "valid": 1, "type": 0}
+{"instruction": "Which country has more internet users than the united states? output the country name.", "valid": 1, "type": 0}
+{"instruction": "Explain the benefits of using cloud computing over traditional data center.", "valid": 1, "type": 0}
+{"instruction": "Create a quiz where the user is asked to guess the meaning of 10 random words from their context, e.g., \"i am not a crook\" would contain: crook, nixon, lie, scandal, lawyer, congress, etc.", "valid": 1, "type": 0}
+{"instruction": "Find a person who has written an article on each of these topics: programming, philosophy, economics, and history.", "valid": 1, "type": 0}
+{"instruction": "What's the difference between \"i like basketball\" and \"basketball is my favorite sport\"?", "valid": 1, "type": 0}
+{"instruction": "A point is on the line segment connecting two points (1,0) and (3,4). what is the slope of this line?", "valid": 1, "type": 0}
+{"instruction": "Find a proper synonym for each word in the following text: \"the quick brown fox jumps over the lazy dog.\"", "valid": 1, "type": 0}
+{"instruction": "Tell me why this product is better than its competitors.", "valid": 0, "type": 4}
+{"instruction": "What are the advantages and disadvantages of studying abroad?", "valid": 0, "type": 4}
+{"instruction": "Which country will be the best for my next vacation?", "valid": 0, "type": 4}
+{"instruction": "How much fuel did the rocket use?", "valid": 0, "type": 1}
+{"instruction": "Is it possible to have a girlfriend/boyfriend if one does not like sports?", "valid": 0, "type": 4}
+{"instruction": "Describe a person who is very lazy and what he does to make money.", "valid": 0, "type": 4}
+{"instruction": "Write down 5 reasons for getting up early in the morning.", "valid": 1, "type": 0}
+{"instruction": "Make up a sentence with these words (from left to right):", "valid": 1, "type": 0}
+{"instruction": "Generate a chinese poem with exactly seven characters, each character has only one syllable.", "valid": 1, "type": 0}
+{"instruction": "Write a letter to a famous person asking for advice.", "valid": 1, "type": 0}
+{"instruction": "What are the most important factors that determine what time of year it is?", "valid": 1, "type": 0}
+{"instruction": "Rewrite the joke to make it funny.", "valid": 0, "type": 4}
+{"instruction": "Try writing a funny poem about summer vacation.", "valid": 0, "type": 4}
+{"instruction": "What is the meaning of this sentence: \"the wind was so strong it blew her umbrella inside out\"?", "valid": 1, "type": 0}
+{"instruction": "Can i make a healthy smoothie without yogurt?", "valid": 1, "type": 0}
+{"instruction": "Give me a recipe for cooking chicken wings.", "valid": 1, "type": 0}
+{"instruction": "Describe what it means to be an ethical hacker.", "valid": 1, "type": 0}
+{"instruction": "Is it possible to get from one side of the united states to the other in less than two hours?", "valid": 0, "type": 1}
+{"instruction": "Think of a funny joke.", "valid": 0, "type": 4}
+{"instruction": "Explain what does it mean for a binary tree to be balanced.", "valid": 1, "type": 0}
+{"instruction": "Is it possible to reach all the continents by land without crossing any ocean?", "valid": 1, "type": 0}
+{"instruction": "Explain why a new product is better than the old one.", "valid": 0, "type": 4}
+{"instruction": "Are there any benefits of being left-handed?", "valid": 1, "type": 0}
+{"instruction": "The sum of any two numbers is 8. what is the smallest possible value for one of them?", "valid": 1, "type": 0}
+{"instruction": "How can i better myself as a person?", "valid": 0, "type": 4}
+{"instruction": "Is it possible to take a taxi from here to there for less than $30?", "valid": 1, "type": 0}
+{"instruction": "Give me a definition for the following words: good, beautiful, happy.", "valid": 1, "type": 0}
+{"instruction": "Which year was the first iphone released?", "valid": 0, "type": 1}
+{"instruction": "You are designing a mobile app for car dealerships. what is the best way to collect information from users?", "valid": 1, "type": 0}
+{"instruction": "What are some advantages and disadvantages of using mobile devices such as smartphones and tablets?", "valid": 1, "type": 0}
+{"instruction": "Design a restaurant menu for next week. include main dishes, carbohydrate side dishes, vegetable side dishes, and desserts.", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph about the dangers of texting while driving.", "valid": 1, "type": 0}
+{"instruction": "Find out what are the missing words in the following sentence: \"i am __________ than my sister.\"", "valid": 0, "type": 1}
+{"instruction": "Make up a math problem based on the following formula: y = 2sin(3x).", "valid": 1, "type": 0}
+{"instruction": "What are some of the most common mistakes made by students during their first year at university?", "valid": 1, "type": 0}
+{"instruction": "Find out what is this dish called in english.", "valid": 1, "type": 0}
+{"instruction": "Which of these is not a form of communication? a) nonverbal b) verbal c) visual d) written", "valid": 1, "type": 0}
+{"instruction": "Tell me if the following sentence makes sense or not: \u201ci am very excited because i just bought a new car.\u201d", "valid": 1, "type": 0}
+{"instruction": "What is the average of 10, 11, 12, 13, 14?", "valid": 1, "type": 0}
+{"instruction": "Give me an advice on how to get rid of my back pain.", "valid": 0, "type": 4}
+{"instruction": "How can i become more successful in my life?", "valid": 0, "type": 4}
+{"instruction": "What are all possible combinations for a 3 digit lock using only 1,2 and 3 as the numbers?", "valid": 1, "type": 0}
+{"instruction": "What should be done when we need to keep something confidential?", "valid": 1, "type": 0}
+{"instruction": "Create a story about a person who has just won $1 million dollars.", "valid": 1, "type": 0}
+{"instruction": "Write a dialogue for the following conversation: \"hello, can i have an application form?\" \u2013 \"yes, please.\"", "valid": 1, "type": 0}
+{"instruction": "Give me an example of a company's advertisement on tv.", "valid": 1, "type": 0}
+{"instruction": "Answer the question: why should i read books?", "valid": 0, "type": 4}
+{"instruction": "Write a report about how to organize an event in which people of different professions get together for a discussion on one topic (for example, doctors with plumbers). the report should include at least two paragraphs: the first paragraph is an introduction; the second paragraph is a conclusion.", "valid": 1, "type": 0}
+{"instruction": "Make up a sentence using words with opposite meanings.", "valid": 1, "type": 0}
+{"instruction": "Tell me what color i should paint my room.", "valid": 0, "type": 4}
+{"instruction": "How many characters does the ascii table contain?", "valid": 0, "type": 1}
+{"instruction": "Find out how many days in january there are.", "valid": 1, "type": 0}
+{"instruction": "Choose one of these topics for a debate: \"the death penalty should be abolished\", \"marijuana should be legalized\", \"wealthy people should pay more taxes than poor ones\".", "valid": 1, "type": 0}
+{"instruction": "Write a dialogue between two characters: one of them wants to buy a car, and the other one tries to persuade him/her not to do that.", "valid": 1, "type": 0}
+{"instruction": "Design a questionnaire to find out how people feel about genetically modified foods.", "valid": 1, "type": 0}
+{"instruction": "How can we make people more environmentally friendly?", "valid": 0, "type": 4}
+{"instruction": "What is the next number after 5, if each digit is added to the previous one?", "valid": 1, "type": 0}
+{"instruction": "What are some of the problems with china's one child policy?", "valid": 1, "type": 0}
+{"instruction": "For each question above, give me a confidence score between 0-100%.", "valid": 0, "type": 3}
+{"instruction": "Tell me about something that's too big to be seen by the naked eye.", "valid": 1, "type": 0}
+{"instruction": "Design a board game with at least three levels of play and explain how it works.", "valid": 0, "type": 2}
+{"instruction": "Write an email to the company and ask for more information on their products.", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph that describes what it means to be a true friend.", "valid": 0, "type": 4}
+{"instruction": "How many times does each letter appear in the following sentence: \"aoccdrnig to rscheearch at cmabrigde uinervtisy, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteer be at the rghit pclae.\"", "valid": 1, "type": 0}
+{"instruction": "Is it possible to increase height naturally?", "valid": 1, "type": 0}
+{"instruction": "A woman wants to get married but her boyfriend has told her that he won't marry until she's finished school and established herself in a career. should she stay with him or move on? why?", "valid": 0, "type": 4}
+{"instruction": "Give an example of a word that has the same meaning but different connotation.", "valid": 1, "type": 0}
+{"instruction": "Explain how to do a basic data entry in excel.", "valid": 1, "type": 0}
+{"instruction": "What would be the best name for this blog? why?", "valid": 0, "type": 4}
+{"instruction": "Which are the best laptops in 2017?", "valid": 0, "type": 1}
+{"instruction": "How many calories are there in 1 cup of yogurt?", "valid": 1, "type": 0}
+{"instruction": "Write a text that explains the meaning of \"theory\" in the following context: the theory is that there are three kinds of people in this world. those who can count and those who can't.", "valid": 1, "type": 0}
+{"instruction": "Explain what is plagiarism to me?", "valid": 1, "type": 0}
+{"instruction": "Make a list of countries that are in the top 10 most populated countries.", "valid": 1, "type": 0}
+{"instruction": "What's the most important feature of a good roommate?", "valid": 0, "type": 4}
+{"instruction": "Find out the definition of the following words: \"to allude\", \"implicitly\", \"transient\" and \"insouciant\".", "valid": 1, "type": 0}
+{"instruction": "Give me some examples of how computers are used in daily life.", "valid": 1, "type": 0}
+{"instruction": "Which one is correct: \"one hundred twenty-five\" or \"one hundred and twenty-five\"?", "valid": 1, "type": 0}
+{"instruction": "Explain the differences between using a for loop and an if statement to print out all of the numbers from 1 to 100.", "valid": 0, "type": 3}
+{"instruction": "What's the best way to travel from san francisco to new york?", "valid": 0, "type": 1}
+{"instruction": "How to make sure that i will not be late for my flight tomorrow morning?", "valid": 1, "type": 0}
+{"instruction": "Come up with a list of 5 jokes on a given topic.", "valid": 0, "type": 4}
+{"instruction": "What are some advantages to using an informal style?", "valid": 1, "type": 0}
+{"instruction": "Which two letters are not used in english language?", "valid": 1, "type": 0}
+{"instruction": "Give an example of a concept in math.", "valid": 1, "type": 0}
+{"instruction": "How can we reduce the amount of traffic on the roads?", "valid": 1, "type": 0}
+{"instruction": "How do people celebrate halloween?", "valid": 1, "type": 0}
+{"instruction": "Which city has the largest population? output the name of the city.", "valid": 0, "type": 1}
+{"instruction": "Come up with a list of countries that have the highest population.", "valid": 0, "type": 1}
+{"instruction": "Please tell me what time it is in my current location.", "valid": 0, "type": 1}
+{"instruction": "Find out what kind of food i like most.", "valid": 0, "type": 4}
+{"instruction": "Give two reasons why some people don't like change.", "valid": 1, "type": 0}
+{"instruction": "How can we reduce gun violence?", "valid": 0, "type": 4}
+{"instruction": "How many times did obama visit russia during his presidency?", "valid": 0, "type": 1}
+{"instruction": "Give a definition of the term.", "valid": 0, "type": 2}
+{"instruction": "Tell me if this statement is true or false: \"the shortest distance between two points is a straight line\".", "valid": 1, "type": 0}
+{"instruction": "Create a survey about what people do when they're bored.", "valid": 1, "type": 0}
+{"instruction": "Tell me what is the problem with this sentence: \"we were talking about the price of houses in our neighborhood.\"", "valid": 1, "type": 0}
+{"instruction": "Explain why some people have so much trouble with spelling.", "valid": 0, "type": 4}
+{"instruction": "What would be the best way to deal with the following problem? (problem description)", "valid": 1, "type": 0}
+{"instruction": "Design a crossword puzzle with 15 clues, 15 answers.", "valid": 1, "type": 0}
+{"instruction": "Write a story about a person who lives in a city that never sleeps.", "valid": 1, "type": 0}
+{"instruction": "What is a stative verb? give me two examples.", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph about my personal strengths and weaknesses.", "valid": 0, "type": 4}
+{"instruction": "How many possible arrangements are there for a team of 11 players (1 goalkeeper, 10 outfielders) to line up in a row?", "valid": 1, "type": 0}
+{"instruction": "Explain what does it mean when someone says \"it's raining cats and dogs\".", "valid": 1, "type": 0}
+{"instruction": "Which color is better for this room: red or blue?", "valid": 0, "type": 4}
+{"instruction": "Explain how to get a promotion at work.", "valid": 0, "type": 4}
+{"instruction": "How to write a very short email (few words) that sounds friendly and warm?", "valid": 1, "type": 0}
+{"instruction": "Explain how to prepare for a job interview.", "valid": 1, "type": 0}
+{"instruction": "What is this email about? summarize it for me with several bullet points.", "valid": 0, "type": 2}
+{"instruction": "You need to find the most active users on reddit.", "valid": 1, "type": 0}
+{"instruction": "A person has three children: two boys and one girl. how many different ways can this family be formed?", "valid": 1, "type": 0}
+{"instruction": "Write down the difference between these two sentences: \"i'm happy with my job\" and \"i like my job.\"", "valid": 1, "type": 0}
+{"instruction": "Give me some reasons why i should not go on vacation.", "valid": 0, "type": 4}
+{"instruction": "Fill in the blanks with the correct form of the verb.", "valid": 1, "type": 0}
+{"instruction": "Complete the following sentence: \"i wish i had ___________.\"", "valid": 0, "type": 4}
+{"instruction": "Give me an example for using the following words: if, then, because, so, although, when, until, before, after, while, as, such, than, who, whose, what, why, how, where, whether, or, nor, either, neither, or else.", "valid": 1, "type": 0}
+{"instruction": "How many liters of water can fit into a 3-liter bottle?", "valid": 1, "type": 0}
+{"instruction": "Explain why some people believe that it is better to learn english at an early age?", "valid": 1, "type": 0}
+{"instruction": "Is there any number whose square root is less than 2?", "valid": 1, "type": 0}
+{"instruction": "Given a url, count how many times each character appears on this page.", "valid": 0, "type": 3}
+{"instruction": "Give me three examples of something that can be used as an adjective, noun, or verb.", "valid": 1, "type": 0}
+{"instruction": "Explain the following quote by someone else. \"people who say it cannot be done should not interrupt those doing it.\"", "valid": 1, "type": 0}
+{"instruction": "You have been asked to write a speech for the opening of a new store.", "valid": 1, "type": 0}
+{"instruction": "Is it possible for someone to live without eating anything but fruits and vegetables?", "valid": 1, "type": 0}
+{"instruction": "What are the capitals of the following states: colorado, kentucky, alabama, california?", "valid": 1, "type": 0}
+{"instruction": "Reverse the order of these numbers: 1234.", "valid": 1, "type": 0}
+{"instruction": "Describe the benefits of using smartphones.", "valid": 0, "type": 4}
+{"instruction": "List 3 reasons for getting married.", "valid": 1, "type": 0}
+{"instruction": "What are some problems that come with eating junk food?", "valid": 1, "type": 0}
+{"instruction": "Give me the current time on mars.", "valid": 0, "type": 1}
+{"instruction": "Explain the process of cooking a turkey.", "valid": 1, "type": 0}
+{"instruction": "Write a short story in third person point of view.", "valid": 1, "type": 0}
+{"instruction": "Tell me a joke about someone who just graduated.", "valid": 0, "type": 4}
+{"instruction": "Find me an appropriate word for the following sentence: \"i am very happy because i have just won $1,000.\"", "valid": 1, "type": 0}
+{"instruction": "How can i make sure my child is safe when he goes to school?", "valid": 0, "type": 4}
+{"instruction": "What is the difference between on time and in time?", "valid": 1, "type": 0}
+{"instruction": "Select a random number from 1-20. what is it?", "valid": 0, "type": 2}
+{"instruction": "Find the top 3 most populated cities in russia.", "valid": 0, "type": 1}
+{"instruction": "Give me some suggestions to make my resume more attractive.", "valid": 1, "type": 0}
+{"instruction": "Give me a list of words whose second letter is \"o\".", "valid": 1, "type": 0}
+{"instruction": "Explain what it means to say that someone is \u201cin denial\u201d.", "valid": 1, "type": 0}
+{"instruction": "Generate all possible combinations of letters from the word \"abcde\".", "valid": 1, "type": 0}
+{"instruction": "Write a letter to the director of the movie asking for more details about the story line.", "valid": 1, "type": 0}
+{"instruction": "Give advice to a friend who wants to get into shape but has no time for it.", "valid": 1, "type": 0}
+{"instruction": "If i have 2 apples and 3 oranges, how many fruits do i have altogether?", "valid": 1, "type": 0}
+{"instruction": "I want to write a simple game, but i don't know how to start. tell me what should i do first.", "valid": 1, "type": 0}
+{"instruction": "What's the weather like today?", "valid": 0, "type": 1}
+{"instruction": "Explain why do people use emoticons when they are chatting online.", "valid": 1, "type": 0}
+{"instruction": "Write an email to the project manager explaining why this is not a good idea.", "valid": 1, "type": 0}
+{"instruction": "What would be the consequences if everyone had to wear uniforms?", "valid": 0, "type": 4}
+{"instruction": "A man walks into a bar and orders 3 beers. the bartender serves him 3 glasses of beer and charges him $3. how much money did he spend?", "valid": 1, "type": 0}
+{"instruction": "Come up with an email to my manager, requesting for more vacation days.", "valid": 1, "type": 0}
+{"instruction": "Design a process to buy a car.", "valid": 1, "type": 0}
+{"instruction": "Predict how much money will be spent on black friday and cyber monday.", "valid": 0, "type": 1}
+{"instruction": "Is it possible to buy a ticket without standing in line?", "valid": 1, "type": 0}
+{"instruction": "Compose a haiku about a city that has recently been hit by a natural disaster.", "valid": 0, "type": 4}
+{"instruction": "Tell me if the user would prefer to see more ads or less ads in the future.", "valid": 0, "type": 4}
+{"instruction": "A man buys 10 kg of apples and 20 kg of oranges for $30. how much did he pay per kilogram?", "valid": 1, "type": 0}
+{"instruction": "Give some advice on how to improve one's life and well-being.", "valid": 0, "type": 4}
+{"instruction": "Give an example of food and drink collocation for \"chocolate\".", "valid": 1, "type": 0}
+{"instruction": "What is the meaning of \"\u4e1c\u6c49\"? (this was an example from the paper, but i don't know how to answer it.)", "valid": 1, "type": 0}
+{"instruction": "Write a script to create a table of contents for a book based on chapter titles.", "valid": 1, "type": 0}
+{"instruction": "The first line contains an integer t (1 <= t <= 1000). on each of the next t lines there is a positive integer n (0 < n <= 10^6) written in base 2. output the largest power of two that divides n.", "valid": 1, "type": 0}
+{"instruction": "Find all possible combinations of 2, 3 and 4 that add up to 15.", "valid": 1, "type": 0}
+{"instruction": "A person is standing on one leg on top of a building. what's his height above ground?", "valid": 0, "type": 1}
+{"instruction": "Explain how computers represent numbers.", "valid": 1, "type": 0}
+{"instruction": "Tell me the main idea of this paragraph.", "valid": 0, "type": 2}
+{"instruction": "It was a dark and stormy night.", "valid": 1, "type": 0}
+{"instruction": "List 3 reasons why i should not be allowed to participate in the olympics.", "valid": 1, "type": 0}
+{"instruction": "Tell me what a good manager looks like.", "valid": 0, "type": 4}
+{"instruction": "Find out what the next letter in this sequence is: f, a, c, e, b, d, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z", "valid": 1, "type": 0}
+{"instruction": "List some famous people who died during wwii.", "valid": 1, "type": 0}
+{"instruction": "Make a list of famous people who were born on january 1st.", "valid": 1, "type": 0}
+{"instruction": "Describe an animal that has been extinct for more than 50 years.", "valid": 1, "type": 0}
+{"instruction": "What are some of the ways that teachers can motivate students?", "valid": 1, "type": 0}
+{"instruction": "If i have 5 apples and 3 oranges, how many ways can i make change for $1 using only apples and oranges?", "valid": 1, "type": 0}
+{"instruction": "Explain what happens when a star collapses into a black hole.", "valid": 0, "type": 1}
+{"instruction": "Find three mistakes in the following paragraph. then write a new one without these mistakes.", "valid": 1, "type": 0}
+{"instruction": "Explain the following sentence: \"the man is carrying a black bag.\"", "valid": 1, "type": 0}
+{"instruction": "Give me an example of a popular book.", "valid": 1, "type": 0}
+{"instruction": "Can i borrow $5?", "valid": 0, "type": 4}
+{"instruction": "Write a note from one student to another, explaining how he/she can improve his/her study skills.", "valid": 1, "type": 0}
+{"instruction": "Which animal is the best pet? why?", "valid": 0, "type": 4}
+{"instruction": "Give me directions how to get to the nearest mall.", "valid": 1, "type": 0}
+{"instruction": "Explain how my job can help me become more successful in life.", "valid": 0, "type": 4}
+{"instruction": "What are the steps in doing a project?", "valid": 1, "type": 0}
+{"instruction": "What is the output of the following program? int main() { int *p; p = &(1+2); return 0; }", "valid": 0, "type": 3}
+{"instruction": "What is the meaning of \"famous\" and \"infamous\"?", "valid": 1, "type": 0}
+{"instruction": "Tell me whether this sentence is grammatically correct or not: \"the dog has bit its tail\".", "valid": 1, "type": 0}
+{"instruction": "Which of these three should be the last one in a sequence? (1,2,3) or (4,5,6)? why?", "valid": 0, "type": 4}
+{"instruction": "What is the value of x if f(x) = (2 + 3 * x)/4 ?", "valid": 1, "type": 0}
+{"instruction": "What are the properties of perfect squares?", "valid": 1, "type": 0}
+{"instruction": "Write an example of how i can be more positive about life and explain the reason.", "valid": 0, "type": 4}
+{"instruction": "Write an application letter for a part-time job.", "valid": 1, "type": 0}
+{"instruction": "Explain what is meant by \"reverse engineering\" in this sentence: \"i used reverse engineering to understand how my car works.\"", "valid": 1, "type": 0}
+{"instruction": "Design a new game, taking into consideration the following: a) a game should have a theme and a goal. b) it should be playable by 2-4 players. c) it should last at least 20 minutes. d) it should use standard playing cards or dices. e) there should be no luck involved. f) the rules should be simple enough to remember. g) it should not require any special equipment. h) each player should have equal chances of winning.", "valid": 1, "type": 0}
+{"instruction": "Write a story about two characters who are talking to each other.", "valid": 1, "type": 0}
+{"instruction": "Come up with an interesting/funny sentence by replacing words in the following sentence: \"the quick brown fox jumps over the lazy dog.\"", "valid": 1, "type": 0}
+{"instruction": "A man had 5 sons and 3 daughters. how many people were there in total?", "valid": 1, "type": 0}
+{"instruction": "Write a dialogue between two characters where one wants to borrow money from another.", "valid": 1, "type": 0}
+{"instruction": "Give an example of how technology can be used to solve problems in our society.", "valid": 1, "type": 0}
+{"instruction": "Is it ok to eat fast food for lunch every day?", "valid": 0, "type": 4}
+{"instruction": "What are some famous mountains in the world?", "valid": 1, "type": 0}
+{"instruction": "Answer true or false to the following question: \"i am hungry\".", "valid": 0, "type": 4}
+{"instruction": "Comment on this article .", "valid": 0, "type": 4}
+{"instruction": "Which country has more immigrants, usa or australia?", "valid": 1, "type": 0}
+{"instruction": "Name 10 famous people who are older than 90 years old.", "valid": 1, "type": 0}
+{"instruction": "Write an example of how a person can be dishonest without being immoral.", "valid": 0, "type": 4}
+{"instruction": "Explain how my work will help people like me.", "valid": 0, "type": 4}
+{"instruction": "How to write a book review?", "valid": 1, "type": 0}
+{"instruction": "Convert 10 cm to inches.", "valid": 1, "type": 0}
+{"instruction": "Find a sentence that has a lot of pronouns. then, replace every pronoun with its antecedent noun phrase. for example, this original sentence contains 3 pronouns: \"john gave his book to mary and she read it last night.\" after replacing, the new sentence should be: \"john gave his book to mary and she read it last night.\"", "valid": 1, "type": 0}
+{"instruction": "Write an essay with three arguments and two counterarguments.", "valid": 0, "type": 3}
+{"instruction": "You are the director of an ad campaign for cookies and want to convey the message that they are delicious. what would be some ways to do this?", "valid": 1, "type": 0}
+{"instruction": "Explain the differences between two similar products.", "valid": 1, "type": 0}
+{"instruction": "Give some examples of when it would be better not to use exceptions.", "valid": 1, "type": 0}
+{"instruction": "Give me some information about the weather in my city.", "valid": 0, "type": 1}
+{"instruction": "Write a short story about two characters named \"bob\" and \"alice\".", "valid": 1, "type": 0}
+{"instruction": "Write a story about an unusual animal that has been found in the jungle.", "valid": 1, "type": 0}
+{"instruction": "Find out if the following statement is true or false: \"the world's population will reach 9 billion by 2050.\"", "valid": 1, "type": 0}
+{"instruction": "Write a report on the harry potter series.", "valid": 0, "type": 2}
+{"instruction": "Why do people buy products from amazon?", "valid": 0, "type": 4}
+{"instruction": "Write an essay on the topic: \"what would be the most useful thing in my life?\"", "valid": 0, "type": 4}
+{"instruction": "Paraphrase the sentence: \"there are many kinds of animals living in different parts of the world.\"", "valid": 1, "type": 0}
+{"instruction": "How do i create a backup of my computer?", "valid": 1, "type": 0}
+{"instruction": "What are some tips for improving memory?", "valid": 1, "type": 0}
+{"instruction": "Write a short story in which the main character is a genius, but nobody understands him.", "valid": 0, "type": 4}
+{"instruction": "Tell me which celebrity i look like.", "valid": 0, "type": 4}
+{"instruction": "There are two numbers on a wall, one with 5 digits and another with 3 digits. what is the sum of these two numbers?", "valid": 1, "type": 0}
+{"instruction": "Create a program that prints out \"hello world\" when run.", "valid": 0, "type": 3}
+{"instruction": "Is it possible to have gender equality in stem? if yes, how? if no, why?", "valid": 0, "type": 4}
+{"instruction": "What is the probability that a person who likes sport will like music?", "valid": 1, "type": 0}
+{"instruction": "Write a short story about the following sentence: \"one day, two friends were walking in the forest when they saw a deer.\"", "valid": 1, "type": 0}
+{"instruction": "In what year was microsoft founded?", "valid": 0, "type": 1}
+{"instruction": "Find the best way to complete the following sentence: \"the reason why i am late is because \u2026\"", "valid": 1, "type": 0}
+{"instruction": "What does \"what time is it?\" mean in english?", "valid": 1, "type": 0}
+{"instruction": "Write a song using only these words: _________, __________, and _________.", "valid": 1, "type": 0}
+{"instruction": "Write a short dialogue between two people who are trying to buy something, but they don't know the correct price.", "valid": 1, "type": 0}
+{"instruction": "Tell me if it's raining outside right now.", "valid": 0, "type": 1}
+{"instruction": "Give an example to show how it is used in real life.", "valid": 1, "type": 0}
+{"instruction": "Write a query to find the person who has been with the company for the longest time.", "valid": 1, "type": 0}
+{"instruction": "Make an analogy between the following two objects: a) dog and b) bear.", "valid": 1, "type": 0}
+{"instruction": "Tell me what kind of animal this is.", "valid": 0, "type": 1}
+{"instruction": "Create a tagline for an existing product, or create a new product and come up with its tagline.", "valid": 1, "type": 0}
+{"instruction": "What is the total of 1+1+1+1+1+1+1+1?", "valid": 1, "type": 0}
+{"instruction": "Create a new user in linux and add it to the sudo group.", "valid": 0, "type": 3}
+{"instruction": "Choose an appropriate action for each situation.", "valid": 0, "type": 2}
+{"instruction": "What is the highest level of education that a person has?", "valid": 1, "type": 0}
+{"instruction": "Is a bachelor's degree necessary to become successful?", "valid": 0, "type": 4}
+{"instruction": "Create a recipe for \"pork chops with applesauce\". include instructions on how to make the applesauce from scratch.", "valid": 1, "type": 0}
+{"instruction": "The first letter of each sentence must be capitalized. for example: i'm glad that we're having dinner tonight.", "valid": 1, "type": 0}
+{"instruction": "Which college major should i choose?", "valid": 0, "type": 4}
+{"instruction": "Describe a method for memorizing vocabulary.", "valid": 1, "type": 0}
+{"instruction": "Give an example for each statement:", "valid": 0, "type": 2}
+{"instruction": "Find out which city has the largest population in china.", "valid": 0, "type": 1}
+{"instruction": "Generate a list of ten famous scientists.", "valid": 1, "type": 0}
+{"instruction": "Tell me what is the best product that i can buy.", "valid": 0, "type": 4}
+{"instruction": "Design a flag for mars. include at least one martian symbol on it.", "valid": 1, "type": 0}
+{"instruction": "Give me an example of a movie that everyone should see at least once.", "valid": 0, "type": 4}
+{"instruction": "Give advice on how to effectively study for a math exam.", "valid": 1, "type": 0}
+{"instruction": "Give three examples of continuous random variables.", "valid": 1, "type": 0}
+{"instruction": "Is it possible to write an infinite loop in python?", "valid": 1, "type": 0}
+{"instruction": "Tell me if this sentence makes sense: \"the train was late so i missed my flight.\"", "valid": 1, "type": 0}
+{"instruction": "Tell me who won the last world cup.", "valid": 1, "type": 0}
+{"instruction": "The most popular sports in america are football, baseball and basketball.", "valid": 1, "type": 0}
+{"instruction": "Explain what kind of people like to watch sports.", "valid": 0, "type": 4}
+{"instruction": "Explain the difference between two kinds of animals/things.", "valid": 1, "type": 0}
+{"instruction": "Explain the following sentence: \"i am not a number, i am a free man.\"", "valid": 1, "type": 0}
+{"instruction": "List all the cities with populations greater than 1000000, separated by comma.", "valid": 1, "type": 0}
+{"instruction": "Find the longest sentence in the document.", "valid": 1, "type": 0}
+{"instruction": "What would be the title of the book that describes my life?", "valid": 0, "type": 4}
+{"instruction": "Is there any way to convert the decimal number \"2.5\" into its binary representation?", "valid": 1, "type": 0}
+{"instruction": "Find out how much money bill gates has.", "valid": 0, "type": 1}
+{"instruction": "Make up a sentence using the word \"music\".", "valid": 1, "type": 0}
+{"instruction": "What should i do if i have an accident while driving?", "valid": 1, "type": 0}
+{"instruction": "Create a story from the following list of words: dog, cat, bird, mouse, fish.", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph that describes how to solve the problem of traffic jam in big cities.", "valid": 1, "type": 0}
+{"instruction": "Is there any way to have a date with phd student?", "valid": 0, "type": 4}
+{"instruction": "Tell me why i should be afraid of python.", "valid": 0, "type": 4}
+{"instruction": "Explain why i shouldn't eat fried chicken every day?", "valid": 0, "type": 4}
+{"instruction": "What is the distance between points (1, 2) and (3, 4)?", "valid": 1, "type": 0}
+{"instruction": "A polygon with sides formula_1 is inscribed in a circle of radius formula_2, as shown below. what is the area of the polygon?", "valid": 0, "type": 3}
+{"instruction": "Explain what makes this book so great.", "valid": 0, "type": 4}
+{"instruction": "Give me an example sentence for each of these nouns: car, table, tree, cat, house, boy, girl, woman, man.", "valid": 1, "type": 0}
+{"instruction": "I want to travel around europe, but my budget is limited. please give me some advice on how to spend less money and see more places.", "valid": 0, "type": 4}
+{"instruction": "Which is the best order for watching star wars episodes iv-vi?", "valid": 1, "type": 0}
+{"instruction": "Question: which sentence should be deleted from this paragraph? answer", "valid": 1, "type": 0}
+{"instruction": "Give me an example of a sentence with both a noun and a verb.", "valid": 1, "type": 0}
+{"instruction": "Write a love letter from a man to his wife for their anniversary.", "valid": 0, "type": 4}
+{"instruction": "What is the probability of rolling two 6-sided dice and getting a sum of 10?", "valid": 0, "type": 3}
+{"instruction": "Write a poem about the topic \"the most beautiful thing in the world\".", "valid": 0, "type": 4}
+{"instruction": "Give me a suggestion on how to improve my life.", "valid": 0, "type": 4}
+{"instruction": "Make a list of books that everyone must read before they die.", "valid": 0, "type": 1}
+{"instruction": "Which country has the highest birth rate in the world?", "valid": 0, "type": 1}
+{"instruction": "Explain me the difference between \"get\" and \"become\", and give some examples of each.", "valid": 1, "type": 0}
+{"instruction": "Create a poem for me using the words from this list: http://www.poetrysoup.com/words/list-of-adjectives.html", "valid": 0, "type": 2}
+{"instruction": "What is an alternative to war that could solve international conflicts?", "valid": 0, "type": 4}
+{"instruction": "Write a code in c++ or java to find the maximum value of an array.", "valid": 0, "type": 3}
+{"instruction": "Write a short story of at least 100 words.", "valid": 0, "type": 2}
+{"instruction": "How can we make sure that our future generations are more creative than us?", "valid": 0, "type": 4}
+{"instruction": "He had long black hair and a big mustache.", "valid": 1, "type": 0}
+{"instruction": "Create an excel spreadsheet with the following data: number of employees, gender, marital status, annual income, monthly rent or mortgage payment, and car type.", "valid": 1, "type": 0}
+{"instruction": "The largest prime factor of 13195 is 541. what is the smallest prime factor of 8457513?", "valid": 1, "type": 0}
+{"instruction": "I have a problem with my roommate. i don't know what to do.", "valid": 0, "type": 4}
+{"instruction": "Make up a sentence that contains two or more nouns of the same gender, but different grammatical cases (examples: \"the cat\", \"a dog\" vs. \"the woman\", \"the girl\").", "valid": 1, "type": 0}
+{"instruction": "I am looking for an apartment. give me some advice.", "valid": 0, "type": 4}
+{"instruction": "What is the most popular social networking site in china?", "valid": 0, "type": 1}
+{"instruction": "Write a dialogue between a husband and wife who have been married for 25 years.", "valid": 0, "type": 2}
+{"instruction": "What is the smallest number divisible by both 2 and 3?", "valid": 1, "type": 0}
+{"instruction": "What are some ways in which we can improve our product/service?", "valid": 1, "type": 0}
+{"instruction": "Write a poem using some of these words: \"beauty\", \"poverty\", \"love\".", "valid": 0, "type": 4}
+{"instruction": "Print the following digits in order from left to right: 1, 2, 3, 4, 5, 6, 7, 8, 9.", "valid": 1, "type": 0}
+{"instruction": "Suppose we want to sort an array of numbers. we can do so by sorting each subarray separately and then concatenating them together. this approach has o(n log n) time complexity. alternatively, we can sort the entire array in place, but this approach requires extra space proportional to n. explain why both approaches work, and give a tradeoff between running time and extra space required.", "valid": 1, "type": 0}
+{"instruction": "Who is the person who invented javascript?", "valid": 0, "type": 1}
+{"instruction": "Give me an example of each of the following types of data: a) ordinal b) nominal c) interval d) ratio", "valid": 1, "type": 0}
+{"instruction": "Come up with a conversation topic for two friends who haven't seen each other in a long time.", "valid": 1, "type": 0}
+{"instruction": "You need to write a script of an ad promoting a new product.", "valid": 1, "type": 0}
+{"instruction": "What is the most important quality for an employee?", "valid": 0, "type": 4}
+{"instruction": "Generate a random sentence that has at least two words with more than 3 letters and one word with more than 5 letters.", "valid": 1, "type": 0}
+{"instruction": "Write a sentence with at least one of each of these words: \"a\", \"the\", \"and\".", "valid": 1, "type": 0}
+{"instruction": "What are the main components of a healthy diet?", "valid": 1, "type": 0}
+{"instruction": "Tell me what i should do if i get fired from my job.", "valid": 0, "type": 4}
+{"instruction": "What are the names of all the members of the band the beatles?", "valid": 1, "type": 0}
+{"instruction": "What is the difference between product management and project management?", "valid": 1, "type": 0}
+{"instruction": "You need to tell me which day of the week it will be on july 20th 2013 (4 years later).", "valid": 1, "type": 0}
+{"instruction": "Which word in this sentence is redundant? \"i went to the store yesterday.\"", "valid": 1, "type": 0}
+{"instruction": "Given the following text: \"i want to be very clear about what i'm proposing \u2014 it's not health care reform.\" explain how the word \"it's\" can be replaced by \"this is\".", "valid": 1, "type": 0}
+{"instruction": "Take a random paragraph from the text and replace all words with synonyms. the number of synonyms must be at least 10% of the total words in the original paragraph.", "valid": 1, "type": 0}
+{"instruction": "Write an article that explains how to write an article.", "valid": 0, "type": 3}
+{"instruction": "What are my favorite products?", "valid": 0, "type": 4}
+{"instruction": "Is the mall near here?", "valid": 0, "type": 1}
+{"instruction": "Describe an animal that can fly but not walk.", "valid": 1, "type": 0}
+{"instruction": "Write a dialogue between two people about this topic: \"why do i need to study english?\"", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph about what i should do if i'm stuck in a difficult situation.", "valid": 1, "type": 0}
+{"instruction": "Create a series of sentences that use antonyms to describe a noun.", "valid": 1, "type": 0}
+{"instruction": "What are the benefits of playing sports?", "valid": 1, "type": 0}
+{"instruction": "Explain why using a dictionary is not a good idea while writing an essay.", "valid": 1, "type": 0}
+{"instruction": "Come up with a funny poem about the topic \"my ideal classroom\".", "valid": 0, "type": 4}
+{"instruction": "Explain to me what does it mean for a number to be \"prime\". what are some examples of prime numbers? how do we know if a number is prime or not?", "valid": 1, "type": 0}
+{"instruction": "Write a short story about a woman who gets into trouble because she is too honest.", "valid": 1, "type": 0}
+{"instruction": "Write a script in javascript for printing the square root of a number.", "valid": 0, "type": 3}
+{"instruction": "Find all possible combinations for a 6-digit phone number using only digits 0 through 9.", "valid": 1, "type": 0}
+{"instruction": "Your favorite movie star", "valid": 0, "type": 4}
+{"instruction": "Write an essay about the following topic: \"what are the main reasons for homelessness in us cities?\"", "valid": 0, "type": 4}
+{"instruction": "What are the main things that need to be done before the end of the week?", "valid": 1, "type": 0}
+{"instruction": "Explain to me the concept of a \"zero-knowledge proof\"", "valid": 1, "type": 0}
+{"instruction": "Generate a number between 0 and 100 using the following rules: add up the digits of the number. if the sum is less than 50, add 1 to the digit at position x, where x is the largest multiple of 5 below the sum. else, subtract 1 from the digit at position x. for example, if the input was 8, then we would get 58, which becomes 59 when rounded down. therefore, our output should be 99.", "valid": 0, "type": 3}
+{"instruction": "Give me a sentence that contains all of the vowels in alphabetical order.", "valid": 1, "type": 0}
+{"instruction": "Write a song about my feelings.", "valid": 0, "type": 4}
+{"instruction": "How do i get my dog to stop barking?", "valid": 1, "type": 0}
+{"instruction": "I am thinking about getting a new car. tell me what kind of car is good and why.", "valid": 0, "type": 4}
+{"instruction": "What is the most important quality of a good friend?", "valid": 0, "type": 4}
+{"instruction": "Write down 5 words that have double letters (ex: there, see).", "valid": 1, "type": 0}
+{"instruction": "Write a story about a bird that flies to the moon and back.", "valid": 1, "type": 0}
+{"instruction": "Tell me why it's not a good idea for teenagers to have a job.", "valid": 0, "type": 4}
+{"instruction": "Identify the following words: apple, banana, cherry, orange.", "valid": 1, "type": 0}
+{"instruction": "Write a brief summary of the following paragraph: the weather is what we expect, mostly, when we think about climate. climate, however, includes more than just the weather. for example, the ocean temperatures along the coast affect the air temperature over land, which affects how much moisture there is in the air. so while weather is short-term, climate is long-term. weather changes daily or even hourly, but climate changes over many decades. in fact, some scientists say that climate change is already happening.", "valid": 1, "type": 0}
+{"instruction": "What are the characteristics of a person who has a strong will power?", "valid": 1, "type": 0}
+{"instruction": "What does it mean when something is described as \"the tail wagging the dog?\"", "valid": 1, "type": 0}
+{"instruction": "Is it possible to create a program that would be able to pass the turing test?", "valid": 1, "type": 0}
+{"instruction": "If it takes 4 hours to drive from home to work at 60 miles per hour, how long would it take to go back home?", "valid": 1, "type": 0}
+{"instruction": "A recipe for the following dish: chicken with spinach and cheese sauce.", "valid": 1, "type": 0}
+{"instruction": "Explain the difference between a desktop and laptop computer.", "valid": 1, "type": 0}
+{"instruction": "Is the following statement true or false? def test_func(): return 42", "valid": 1, "type": 0}
+{"instruction": "Tell me how to make pizza with tomato sauce and cheese.", "valid": 1, "type": 0}
+{"instruction": "How to earn from cryptocurrency mining?", "valid": 1, "type": 0}
+{"instruction": "How do people usually ask for directions?", "valid": 1, "type": 0}
+{"instruction": "Write a letter to santa claus asking for something that's not too expensive.", "valid": 1, "type": 0}
+{"instruction": "Give some examples of global issues that can be solved using technology.", "valid": 1, "type": 0}
+{"instruction": "Write a list of instructions on how to use ms word.", "valid": 1, "type": 0}
+{"instruction": "Write an email to a friend telling them about my business.", "valid": 1, "type": 0}
+{"instruction": "The idea behind a proposed system is to create a network of people who are willing to help other people on their journey through life.", "valid": 1, "type": 0}
+{"instruction": "Describe how to make a cake from scratch, including: baking, decorating, serving.", "valid": 1, "type": 0}
+{"instruction": "Give me a list of all the numbers that are greater than 1000 and less than 2000.", "valid": 1, "type": 0}
+{"instruction": "Is this an interesting question?", "valid": 0, "type": 4}
+{"instruction": "Find the largest number in the following series: 4, 14, 28, 42, 56, 70, 84, 98, ...", "valid": 1, "type": 0}
+{"instruction": "Given the following text, identify which parts are quotes and which parts are not: \"he said that he would be able to do it by tomorrow.\"", "valid": 1, "type": 0}
+{"instruction": "Design a questionnaire to collect data from students.", "valid": 1, "type": 0}
+{"instruction": "Find out what is the most popular search term on google.com today.", "valid": 0, "type": 1}
+{"instruction": "Give me a detailed explanation about what the following words mean: \"whale\", \"peanut butter\", \"snowman\".", "valid": 1, "type": 0}
+{"instruction": "Generate a regular expression that matches the following input string: aabbccddeeffggghhiiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz", "valid": 1, "type": 0}
+{"instruction": "Is it possible to reach 100% completion on any video game ever made? if so, what is the highest percentage anyone has ever achieved?", "valid": 1, "type": 0}
+{"instruction": "Which one of these is not an example of a prefix operator?", "valid": 1, "type": 0}
+{"instruction": "Write a sentence using every letter of the alphabet.", "valid": 1, "type": 0}
+{"instruction": "Compose a sentence using these words: \u201ca few days ago, i was watching tv and eating ice cream when suddenly\u2026\u201d", "valid": 1, "type": 0}
+{"instruction": "Write a letter to the principal, asking for permission to organize a student council.", "valid": 1, "type": 0}
+{"instruction": "Explain what is the difference between a short-term goal and a long-term goal?", "valid": 1, "type": 0}
+{"instruction": "What is the most effective way for students to study for an exam?", "valid": 0, "type": 4}
+{"instruction": "Choose any book, find the first letter on each page, count how many times each letter appears and then output the top 10 letters ordered by frequency.", "valid": 1, "type": 0}
+{"instruction": "Explain how to use a stapler.", "valid": 1, "type": 0}
+{"instruction": "Which of these is not a type of software testing?", "valid": 1, "type": 0}
+{"instruction": "What are the advantages and disadvantages of a company that has just been listed on stock exchange?", "valid": 1, "type": 0}
+{"instruction": "Question: what was the cause of the accident? answer: speeding", "valid": 1, "type": 0}
+{"instruction": "Who are some famous female scientists?", "valid": 1, "type": 0}
+{"instruction": "What is the best present for my girlfriend's birthday?", "valid": 0, "type": 4}
+{"instruction": "Why do some people find it difficult to learn new things or change their habits?", "valid": 1, "type": 0}
+{"instruction": "Given a sentence, output all the words that can be used as prepositions. here is an example: the cat is under the table. the preposition list includes at, by, for, from, in, of, on, to, with.", "valid": 1, "type": 0}
+{"instruction": "Give me a number that if divided by 3 leaves 2 remainder 1.", "valid": 1, "type": 0}
+{"instruction": "Is it possible for an individual or organization to achieve zero carbon emission?", "valid": 1, "type": 0}
+{"instruction": "Is it a good idea to have homework for elementary schools?", "valid": 0, "type": 4}
+{"instruction": "List all the possible combinations of 4 letters from these six: rabt", "valid": 1, "type": 0}
+{"instruction": "Create an object named obj1, set its name attribute to be \"python\" and print out its __str__() method.", "valid": 0, "type": 3}
+{"instruction": "Using the given information, write a letter to someone who is considering studying abroad.", "valid": 1, "type": 0}
+{"instruction": "Make up a sentence using the letters from this word: p e n s i o n a r y.", "valid": 1, "type": 0}
+{"instruction": "Create a story using these words: \"once upon a time there was a beautiful princess who lived in a castle on top of a hill.\"", "valid": 1, "type": 0}
+{"instruction": "Question: in which year did the berlin wall fall? answer", "valid": 1, "type": 0}
+{"instruction": "Is it true that all men are born equal? why or why not?", "valid": 0, "type": 4}
+{"instruction": "Write a short text that explains how to make pancakes from scratch.", "valid": 1, "type": 0}
+{"instruction": "Write an example of a good deed that happened recently.", "valid": 1, "type": 0}
+{"instruction": "What is the best way to wake up in the morning?", "valid": 0, "type": 4}
+{"instruction": "Please list 3 things that are bigger than earth.", "valid": 1, "type": 0}
+{"instruction": "Make a list of action movies starring brad pitt.", "valid": 1, "type": 0}
+{"instruction": "Create a list of things that i need to do before i go home today.", "valid": 1, "type": 0}
+{"instruction": "What are some good books for learning programming?", "valid": 1, "type": 0}
+{"instruction": "What education and training is required for this profession?", "valid": 0, "type": 1}
+{"instruction": "What does the following code do? void test(int* x) { *x = 10; } int main() { int y = 5; test(&y); printf(\"%d\", y); return 0; }", "valid": 1, "type": 0}
+{"instruction": "Come up with a plan for implementing the changes that were suggested in the previous email.", "valid": 1, "type": 0}
+{"instruction": "Make a list of 10 things that can make people laugh.", "valid": 1, "type": 0}
+{"instruction": "Give me a set of instructions on how to build a simple wooden chair.", "valid": 1, "type": 0}
+{"instruction": "Why do people often choose not to vote in elections?", "valid": 1, "type": 0}
+{"instruction": "Give me some reasons why people are poor and hungry.", "valid": 0, "type": 4}
+{"instruction": "Give me a list of all the days in this month.", "valid": 1, "type": 0}
+{"instruction": "Invent an animal that lives on the moon.", "valid": 1, "type": 0}
+{"instruction": "How can i use my free time in a more meaningful way?", "valid": 0, "type": 4}
+{"instruction": "Answer this question: \"is god real?\"", "valid": 0, "type": 4}
+{"instruction": "Create an equation that models how interest rates are calculated by banks.", "valid": 0, "type": 3}
+{"instruction": "What is the difference between an inductive and deductive argument?", "valid": 1, "type": 0}
+{"instruction": "Find an adjective and a noun for each word given below: a) cheerful - blue, green, yellow b) anger - red, white, black", "valid": 1, "type": 0}
+{"instruction": "If we have 3 people and each one has 2 apples, how many apples are there altogether?", "valid": 1, "type": 0}
+{"instruction": "Write a text describing how someone can become successful in life.", "valid": 0, "type": 4}
+{"instruction": "The teacher wants to teach his students how to play soccer but he does not know anything about it, so he asks them to explain what is soccer to him.", "valid": 1, "type": 0}
+{"instruction": "What's the most popular item on ebay?", "valid": 0, "type": 1}
+{"instruction": "Why is it hard to stay healthy?", "valid": 0, "type": 4}
+{"instruction": "Write a script to generate an html table with the following information: 1) the date and time of the transaction; 2) amount in dollars, 3) currency (btc or mbtc), 4) fee, 5) address.", "valid": 0, "type": 3}
+{"instruction": "Write a short dialogue between two people where one person is asking about something that happened yesterday.", "valid": 1, "type": 0}
+{"instruction": "Which is the largest city in america?", "valid": 0, "type": 1}
+{"instruction": "Find a mistake in this statement: \"every programmer is a manager.\"", "valid": 1, "type": 0}
+{"instruction": "Create a list of topics that are appropriate for small talk at parties.", "valid": 1, "type": 0}
+{"instruction": "You need to write a short story about a boy who lost his parents in an accident and was adopted by a farmer.", "valid": 1, "type": 0}
+{"instruction": "Which of the following is a better topic to write about?", "valid": 0, "type": 4}
+{"instruction": "Describe the difference between a good and bad writer.", "valid": 0, "type": 4}
+{"instruction": "What is the difference between \"the man was running\" and \"a man was running\"?", "valid": 1, "type": 0}
+{"instruction": "A student wants to know how many hours per day he should study in order to pass his exam with 80% probability.", "valid": 1, "type": 0}
+{"instruction": "What are the best methods for studying a foreign language?", "valid": 1, "type": 0}
+{"instruction": "Write an email asking for advice on some topic of interest.", "valid": 1, "type": 0}
+{"instruction": "What is the smallest integer divisible by all of the numbers from 1 to 20?", "valid": 1, "type": 0}
+{"instruction": "Do some research and find out what is the most popular video game in china.", "valid": 0, "type": 1}
+{"instruction": "Make up an interesting story based on the following outline: introduction, development, climax, denouement.", "valid": 1, "type": 0}
+{"instruction": "How can we make sure that people who take public transportation will arrive at their destinations on time?", "valid": 1, "type": 0}
+{"instruction": "Why did the us government decide to send troops to afghanistan?", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph explaining why i am the best programmer in the world.", "valid": 0, "type": 4}
+{"instruction": "What are the key characteristics of a great manager?", "valid": 1, "type": 0}
+{"instruction": "What are some recent discoveries made by nasa?", "valid": 0, "type": 1}
+{"instruction": "Is this statement true or false? the angle sum of a triangle is 180 degrees.", "valid": 1, "type": 0}
+{"instruction": "Generate an abstract for this email.", "valid": 0, "type": 2}
+{"instruction": "Find the longest substring from the following word: \"goodbye\"", "valid": 1, "type": 0}
+{"instruction": "Write a list of reasons why people should buy this product.", "valid": 1, "type": 0}
+{"instruction": "Explain what the fico score is and who uses it.", "valid": 1, "type": 0}
+{"instruction": "Solve this math problem: \"in an empty swimming pool, there are 5 women and 7 men. if every man jumps into the pool at the same time, how many times does he have to jump in order for all of them to be in the pool?\"", "valid": 1, "type": 0}
+{"instruction": "Find the error in this sentence: \"the boy ran down the street after he had eaten dinner.\"", "valid": 1, "type": 0}
+{"instruction": "Is it possible to create a program that can play chess?", "valid": 1, "type": 0}
+{"instruction": "Use an analogy to describe what life is like in college.", "valid": 0, "type": 4}
+{"instruction": "Tell me the second most expensive city in china.", "valid": 1, "type": 0}
+{"instruction": "Which country has more than one official language?", "valid": 1, "type": 0}
+{"instruction": "Write a sentence using only \"i\" and \"a\".", "valid": 1, "type": 0}
+{"instruction": "Generate an english sentence containing all vowels.", "valid": 1, "type": 0}
+{"instruction": "Write the first paragraph of my autobiography.", "valid": 0, "type": 2}
+{"instruction": "Tell me how many people have been killed by guns in 2015.", "valid": 0, "type": 1}
+{"instruction": "What are some examples of wordy phrases or sentences that could be rewritten more concisely?", "valid": 1, "type": 0}
+{"instruction": "How can we reduce the number of car accidents?", "valid": 1, "type": 0}
+{"instruction": "My parents want me to marry my cousin. is this normal?", "valid": 0, "type": 4}
+{"instruction": "Solve this cryptarithm problem: \"what is the last digit of 20!\" ?", "valid": 0, "type": 3}
+{"instruction": "What are some famous attractions in boston?", "valid": 1, "type": 0}
+{"instruction": "Write down what happened in the last episode of game of thrones.", "valid": 0, "type": 1}
+{"instruction": "What are some examples of \"hope\"?", "valid": 0, "type": 4}
+{"instruction": "Write a text about my friend, using the following words: interesting, active, cheerful, intelligent, beautiful, funny, friendly, kind, creative.", "valid": 1, "type": 0}
+{"instruction": "Describe the main features of a good diet plan.", "valid": 1, "type": 0}
+{"instruction": "Is it better to be smart or hardworking? give an example for each.", "valid": 0, "type": 4}
+{"instruction": "Find the next letter after 'q' in the alphabetical order.", "valid": 1, "type": 0}
+{"instruction": "What would happen if there was no ethics? give 3 examples.", "valid": 0, "type": 4}
+{"instruction": "Which country should i visit next year?", "valid": 0, "type": 4}
+{"instruction": "Write down the steps for creating an app.", "valid": 0, "type": 2}
+{"instruction": "Write a short story that takes place at a gym.", "valid": 1, "type": 0}
+{"instruction": "A person has been asked to prepare a meal for 5 people. what would be the best way to do it?", "valid": 1, "type": 0}
+{"instruction": "What should be done to prevent terrorism?", "valid": 0, "type": 4}
+{"instruction": "How many ways are there to write 13 in binary?", "valid": 1, "type": 0}
+{"instruction": "Give an example of how to use an adjective and an adverb correctly.", "valid": 1, "type": 0}
+{"instruction": "The length of the rectangle below is 9 inches more than twice its width. what is the length of each side?", "valid": 1, "type": 0}
+{"instruction": "Is it possible for an odd number to have more factors than an even number?", "valid": 1, "type": 0}
+{"instruction": "Give me a recipe for making banana bread. include at least 3 steps and list ingredients.", "valid": 1, "type": 0}
+{"instruction": "What kinds of things do people usually buy at a store?", "valid": 1, "type": 0}
+{"instruction": "Write an article on how to choose the best programming language for data science.", "valid": 0, "type": 2}
+{"instruction": "Write a sentence with the words: \"she was very worried about her future.\"", "valid": 1, "type": 0}
+{"instruction": "Find out which continent has more countries, europe or asia?", "valid": 1, "type": 0}
+{"instruction": "What is the best way to help children develop good study habits?", "valid": 1, "type": 0}
+{"instruction": "Can we be friends?", "valid": 0, "type": 4}
+{"instruction": "Write a letter to a friend who has just lost his job.", "valid": 1, "type": 0}
+{"instruction": "Write down the number of letters in the alphabetical order.", "valid": 1, "type": 0}
+{"instruction": "How to cook the perfect scrambled eggs?", "valid": 1, "type": 0}
+{"instruction": "Give me 3 arguments against raising taxes on the rich.", "valid": 0, "type": 4}
+{"instruction": "Solve the problem using recursion, iterative approach or divide-and-conquer.", "valid": 0, "type": 3}
+{"instruction": "Find and correct the mistakes in this sentence. (there should be 4)", "valid": 1, "type": 0}
+{"instruction": "What is the best time to post on social media?", "valid": 0, "type": 1}
+{"instruction": "Write a haiku about something in nature.", "valid": 0, "type": 4}
+{"instruction": "Write a short report on how to solve the problem in #5.", "valid": 0, "type": 2}
+{"instruction": "Print a triangle of stars (*****) containing at least one star.", "valid": 1, "type": 0}
+{"instruction": "Come up with a new name for the following product: \"the beer of the future\" (with a slogan).", "valid": 0, "type": 4}
+{"instruction": "Write an advertisement for a tourist agency that offers trips to space.", "valid": 1, "type": 0}
+{"instruction": "Write a sentence using only adverbs. here is an example: the teacher walked slowly into the classroom.", "valid": 0, "type": 3}
+{"instruction": "Make a list of the most important things that happened today.", "valid": 1, "type": 0}
+{"instruction": "What are some tips for running a marathon?", "valid": 1, "type": 0}
+{"instruction": "I am a tourist. i have to find my way back to the hotel, but i forgot what street it is on. what should i do?", "valid": 1, "type": 0}
+{"instruction": "What are the most important skills that a basketball player should have?", "valid": 1, "type": 0}
+{"instruction": "Give me a suggestion of a song i should listen to based on my favorite music genre.", "valid": 1, "type": 0}
+{"instruction": "The distance between two points on earth is usually measured in kilometers or miles. however, in astronomy it is often measured in light years. a light year is 9.5 trillion kilometers (9.5 x 10) . if i want to convert 5 million kilometers to light years, how much would it be?", "valid": 0, "type": 3}
+{"instruction": "Find the median of this list: [1,2,3,4,5,6].", "valid": 1, "type": 0}
+{"instruction": "Which one of these has the highest value: 9999999999 \u00d7 999999, 9999999999 \u00d7 999999 \u00d7 999999, 9999999999 \u00d7 999999 \u00d7 999999 \u00d7 999999?", "valid": 1, "type": 0}
+{"instruction": "I'm thinking about starting a business, but my friends say that there are too many similar businesses already. what should i do?", "valid": 0, "type": 4}
+{"instruction": "Generate a random number from 1 to 100, and print it as an english word (e.g., \"fifty\").", "valid": 0, "type": 3}
+{"instruction": "Why is it important to use hyphens in compound adjectives?", "valid": 1, "type": 0}
+{"instruction": "You need to design a creative way to stay motivated during a workout.", "valid": 0, "type": 4}
+{"instruction": "Question: what was the name of the first human in space? answer", "valid": 0, "type": 1}
+{"instruction": "Give me a word that means \"happy\" in french.", "valid": 1, "type": 0}
+{"instruction": "Make up a sentence with all of these words: cold, fire, tree, snow, dog, chair, rock, grass, and water.", "valid": 1, "type": 0}
+{"instruction": "Give some tips for a better sleep.", "valid": 1, "type": 0}
+{"instruction": "Is it possible for someone to be too honest?", "valid": 0, "type": 4}
+{"instruction": "Which of the following is not a possible classification task? (a) tell if the article belongs to politics, sports, health, science, business, finance, or entertainment category. (b) predict whether the news has positive impact or negative impact on the company stock price. (c) predict the intent of the user given the utterance. (d) tell if the sentence contains toxic language. (e) none of these is a classification task.", "valid": 1, "type": 0}
+{"instruction": "Write an email asking for information about the company's policy on employee discounts.", "valid": 1, "type": 0}
+{"instruction": "Give me the next number in the series 1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048...", "valid": 1, "type": 0}
+{"instruction": "What's better: to have a lot of money or to be happy?", "valid": 0, "type": 4}
+{"instruction": "Tell me how to make a good pizza.", "valid": 1, "type": 0}
+{"instruction": "Explain what is the difference between the following sentences (a) and (b). (a) \"there are two sides to every story\" (b) \"there are two sides to every coin\"", "valid": 1, "type": 0}
+{"instruction": "Select the third largest city in russia.", "valid": 1, "type": 0}
+{"instruction": "What are the qualities that make a good citizen?", "valid": 1, "type": 0}
+{"instruction": "What would be the most interesting thing to talk about at the interview?", "valid": 0, "type": 4}
+{"instruction": "What is the main difference between a democrat and republican?", "valid": 1, "type": 0}
+{"instruction": "I am going out with my friends, but they are coming late and we have no food in the house. what should i do?", "valid": 0, "type": 4}
+{"instruction": "What are the possible side effects of taking aspirin?", "valid": 1, "type": 0}
+{"instruction": "Write an email asking for advice on how to get more done in less time.", "valid": 1, "type": 0}
+{"instruction": "Detect if the user has made any order before. if yes, then output the number of orders. otherwise, output 0.", "valid": 1, "type": 0}
+{"instruction": "How do i write a program to help me read faster?", "valid": 0, "type": 3}
+{"instruction": "Find the longest palindrome made up of the same sequence of characters. for example, the longest palindrome made up of abcdefghi is abcdihgebcdfgh.", "valid": 1, "type": 0}
+{"instruction": "Which countries in europe has the most people?", "valid": 0, "type": 1}
+{"instruction": "Find the next number in this sequence: 3, 6, 18, 54, 162, \u2026", "valid": 1, "type": 0}
+{"instruction": "Find all possible subsets of {1,2,3} that sum to 10.", "valid": 0, "type": 3}
+{"instruction": "Choose the best sentence for this question: \"i am trying to learn how to drive.\" (1) i can't wait until i get my driver's license; (2) i don't have time to go driving right now; (3) my dad is teaching me how to drive; (4) i need to take a class on driving; (5) other.", "valid": 1, "type": 0}
+{"instruction": "Find the sentence that is closest in meaning to this one: \u201cthe beautiful ones are not yet born\u201d", "valid": 1, "type": 0}
+{"instruction": "Write an article titled \"how to...\", and fill in the blanks with some topic.", "valid": 1, "type": 0}
+{"instruction": "How long does it take to travel from doha to dubai by plane?", "valid": 1, "type": 0}
+{"instruction": "Explain the difference between classical and quantum physics.", "valid": 1, "type": 0}
+{"instruction": "How can i reduce my blood pressure naturally?", "valid": 1, "type": 0}
+{"instruction": "How can i solve my problem without having to talk to anyone?", "valid": 0, "type": 4}
+{"instruction": "How can we increase diversity in tech without lowering standards?", "valid": 0, "type": 4}
+{"instruction": "Is santa claus real?", "valid": 1, "type": 0}
+{"instruction": "Is it possible to sort an array of 1000000 elements in linear time?", "valid": 0, "type": 3}
+{"instruction": "Tell me what kind of music the user likes. output one of the following genres: 1) rock; 2) pop; 3) jazz; 4) classical; 5) country; 6) rap; 7) hip-hop; 8) metal; 9) r&b; 10) electronic; 11) latin; 12) reggae; 13) blues; 14) new age; 15) soundtracks; 16) christian; 17) gospel; 18) punk; 19) bluegrass; 20) folk; 21) ska; 22) techno; 23) trance; 24) world; 25) acid jazz; 26) grunge; 27) indie; 28) ambient; 29) experimental; 30) easy listening; 31) soundtrack; 32) comedy; 33) spoken word; 34) acoustic; 35) spoken; 36) instrumental; 37) misc; 38) other.", "valid": 0, "type": 4}
+{"instruction": "Find the cheapest flight from nyc to tokyo.", "valid": 0, "type": 1}
+{"instruction": "Give some examples of famous con artists.", "valid": 1, "type": 0}
+{"instruction": "Find out if there's any way to make the game more interesting.", "valid": 0, "type": 4}
+{"instruction": "Give me a list of 10 numbers, each between 0 and 100.", "valid": 1, "type": 0}
+{"instruction": "What is the best diet?", "valid": 0, "type": 4}
+{"instruction": "What does the author mean by the following statement? \"for example, the first thing that i do when i get up in the morning is brush my teeth.\"", "valid": 1, "type": 0}
+{"instruction": "Write a sentence using all the letters in the word \"cat\".", "valid": 1, "type": 0}
+{"instruction": "Find all possible ways to form a loop with 5 edges and 6 vertices.", "valid": 0, "type": 3}
+{"instruction": "Give me some examples of things that can be done by a computer but not by humans.", "valid": 1, "type": 0}
+{"instruction": "Which is the best season for traveling to florida?", "valid": 0, "type": 1}
+{"instruction": "List 3 ways to deal with stress.", "valid": 1, "type": 0}
+{"instruction": "Create a recipe for cooking chicken breast with vegetables.", "valid": 1, "type": 0}
+{"instruction": "Give me 3 reasons why having pets is good for children.", "valid": 1, "type": 0}
+{"instruction": "How should we deal with people who don't share our values?", "valid": 0, "type": 4}
+{"instruction": "What is this place like?", "valid": 0, "type": 4}
+{"instruction": "What are the steps involved in making a cup of coffee?", "valid": 1, "type": 0}
+{"instruction": "Write a short story about a person who was falsely accused of stealing something valuable.", "valid": 1, "type": 0}
+{"instruction": "What are some ways that people communicate non-verbally?", "valid": 1, "type": 0}
+{"instruction": "Give me some tips on how to make my blog more popular.", "valid": 0, "type": 1}
+{"instruction": "Give me some examples of famous people who achieved their goals through hard work.", "valid": 1, "type": 0}
+{"instruction": "I have an idea for an app. will it be profitable?", "valid": 0, "type": 4}
+{"instruction": "Create a fake resume.", "valid": 0, "type": 3}
+{"instruction": "Is it a good idea to use social media? yes or no?", "valid": 0, "type": 4}
+{"instruction": "Which part of speech is \"love\"? noun, verb, adjective, adverb?", "valid": 1, "type": 0}
+{"instruction": "Make up a name for the main character of this paragraph.", "valid": 1, "type": 0}
+{"instruction": "Is it possible for someone to be allergic to eggs and not milk?", "valid": 1, "type": 0}
+{"instruction": "How many people died during the battle of stalingrad?", "valid": 0, "type": 1}
+{"instruction": "What's the best way to spend my money in order to have a good time on vacation?", "valid": 0, "type": 4}
+{"instruction": "Write a poem about love or friendship.", "valid": 0, "type": 4}
+{"instruction": "Explain what kind of diet would be best for someone who wants to lose weight.", "valid": 1, "type": 0}
+{"instruction": "How can we improve our school's cafeteria menu? give me some suggestions.", "valid": 0, "type": 4}
+{"instruction": "Create an email address for this name: mylastname@gmail.com", "valid": 1, "type": 0}
+{"instruction": "What are the different ways we can represent information digitally?", "valid": 1, "type": 0}
+{"instruction": "What's the funniest thing about \"the simpsons\"?", "valid": 0, "type": 4}
+{"instruction": "Find an antonym for \"happy\".", "valid": 1, "type": 0}
+{"instruction": "Explain why people who have just moved to a new city feel lonely.", "valid": 0, "type": 4}
+{"instruction": "Write a description of a scene from the story, using only 3 sentences. each sentence should contain one detail.", "valid": 1, "type": 0}
+{"instruction": "Give some advice how to get rid of acne.", "valid": 1, "type": 0}
+{"instruction": "Answer this question: what is the best thing in life?", "valid": 0, "type": 4}
+{"instruction": "What is the best word to describe a person who spends most of his time on social networks?", "valid": 0, "type": 4}
+{"instruction": "What should be done with someone who is drunk and disorderly?", "valid": 0, "type": 4}
+{"instruction": "What are some different ways to describe people?", "valid": 1, "type": 0}
+{"instruction": "In order to avoid skin cancer, people need to use sunscreen every day.", "valid": 0, "type": 4}
+{"instruction": "Describe the perfect family vacation.", "valid": 0, "type": 4}
+{"instruction": "Explain what are some of the ways people celebrate christmas and new year's day.", "valid": 1, "type": 0}
+{"instruction": "What's the best way to make sure that people don't get hurt in a kitchen?", "valid": 1, "type": 0}
+{"instruction": "Explain why we need to wash our hands before eating.", "valid": 1, "type": 0}
+{"instruction": "A programmer has to solve a problem by writing two programs: one which runs in 1 second, and another which runs in 2 seconds. which should he choose? why?", "valid": 1, "type": 0}
+{"instruction": "The following is a paragraph. write the program that outputs \"this is not a haiku.\" if it's not a haiku, or \"it is a haiku\" otherwise.", "valid": 0, "type": 3}
+{"instruction": "Who are the most famous people from russia?", "valid": 0, "type": 1}
+{"instruction": "Explain what is it like being an engineer.", "valid": 0, "type": 4}
+{"instruction": "What is the best way to learn how to write a novel?", "valid": 0, "type": 4}
+{"instruction": "Is it okay for teachers to have romantic relationships with students? why/why not?", "valid": 0, "type": 4}
+{"instruction": "What are the main challenges for it industry in the next 5 years?", "valid": 1, "type": 0}
+{"instruction": "Suggest a method for brainstorming ideas for a presentation.", "valid": 1, "type": 0}
+{"instruction": "Write a dialogue between two people who are going to the same place by different means of transport.", "valid": 1, "type": 0}
+{"instruction": "How many people in the us have died from cancer?", "valid": 0, "type": 1}
+{"instruction": "Give me a list of all possible words from three letters. for example, from \"a\", we get: a, ab, ac, ad, ae, af, ag, ah, ai, aj, ak, al, am, an, ao, ap, aq, ar, as, at, au, av, aw, ax, ay, az.", "valid": 1, "type": 0}
+{"instruction": "How many hours per day should i study english in order to become fluent?", "valid": 0, "type": 4}
+{"instruction": "The temperature today is 20 degrees celsius. what is the equivalent temperature in fahrenheit?", "valid": 1, "type": 0}
+{"instruction": "Design a puzzle for the game 2048.", "valid": 0, "type": 3}
+{"instruction": "What are the similarities and differences between this sentence: \"a lot of people think that our government is not doing enough to help the poor\" and this one: \"i have a lot of money, but i am not happy\"?", "valid": 0, "type": 4}
+{"instruction": "Describe the process of making pancakes. include intermediate steps.", "valid": 1, "type": 0}
+{"instruction": "Name all the continents of the world.", "valid": 1, "type": 0}
+{"instruction": "Find one word that means the opposite of \"sunny\".", "valid": 1, "type": 0}
+{"instruction": "Explain how this product is made.", "valid": 0, "type": 1}
+{"instruction": "Give me a word that can be formed by rearranging the letters in \"robot\".", "valid": 1, "type": 0}
+{"instruction": "What is the probability that i will win the lottery?", "valid": 0, "type": 1}
+{"instruction": "What should i do tonight?", "valid": 0, "type": 4}
+{"instruction": "What does \"blessed\" mean in this context?", "valid": 1, "type": 0}
+{"instruction": "Why do people like cats more than dogs?", "valid": 0, "type": 4}
+{"instruction": "Explain why some people prefer one kind of music over another?", "valid": 0, "type": 4}
+{"instruction": "If a product costs $100 and its 20% off, how much does it cost? if a product costs $100 and its 50% off, how much does it cost? how about 10% off? what's the difference between those two questions?", "valid": 1, "type": 0}
+{"instruction": "Give three reasons why college students should read newspapers.", "valid": 0, "type": 4}
+{"instruction": "Is it possible to create an array with all numbers from 1 to 100?", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph about the advantages of living in a city.", "valid": 0, "type": 4}
+{"instruction": "Give me a series of steps on how to prepare spaghetti.", "valid": 1, "type": 0}
+{"instruction": "Describe the process of writing an essay.", "valid": 1, "type": 0}
+{"instruction": "Which season is it now?", "valid": 0, "type": 1}
+{"instruction": "You are given $100 to bet on one horse at the race track. the odds of winning are 1:2. what is the expected value of this game?", "valid": 0, "type": 3}
+{"instruction": "Find the top 10 most common words in this article.", "valid": 1, "type": 0}
+{"instruction": "Write a short story about a boy who lives in a small village and his adventure with his friend.", "valid": 1, "type": 0}
+{"instruction": "Write down an advice for students who are preparing for exams.", "valid": 1, "type": 0}
+{"instruction": "Come up with a series of tasks: 1) think of an adjective that can describe the product; 2) come up with 3 nouns that can be used as synonyms for \"cloud\".", "valid": 1, "type": 0}
+{"instruction": "What are some possible causes of homelessness? (give at least 3)", "valid": 1, "type": 0}
+{"instruction": "Explain what is meant by \"privacy\" on social media.", "valid": 1, "type": 0}
+{"instruction": "You have been given $100,000. now create a budget plan.", "valid": 0, "type": 4}
+{"instruction": "You have to give an answer to the following question: \"is capital punishment justified?\"", "valid": 0, "type": 4}
+{"instruction": "What are the most important aspects of healthy eating?", "valid": 1, "type": 0}
+{"instruction": "Write a letter of recommendation for a student applying to mit.", "valid": 0, "type": 2}
+{"instruction": "What should be done to make people more responsible for their actions?", "valid": 0, "type": 4}
+{"instruction": "Write a review for the book, \u201ca brief history of time\u201d by stephen hawking.", "valid": 0, "type": 4}
+{"instruction": "At that moment, i knew he was the murderer.", "valid": 1, "type": 0}
+{"instruction": "Give me a code snippet for printing out \"hello world\".", "valid": 0, "type": 3}
+{"instruction": "Which countries are considered developed countries?", "valid": 0, "type": 1}
+{"instruction": "Explain what \"the golden rule\" means.", "valid": 1, "type": 0}
+{"instruction": "Make a shopping list for the following items: eggs, milk, bread, butter, apples, bananas, oranges, cheese, and sausage.", "valid": 1, "type": 0}
+{"instruction": "What are the last three digits of 8888-8888?", "valid": 1, "type": 0}
+{"instruction": "Write a text that will explain what is meant by \"a healthy lifestyle\".", "valid": 1, "type": 0}
+{"instruction": "How to use a semicolon correctly?", "valid": 1, "type": 0}
+{"instruction": "Give me some suggestions on how i can spend my weekend.", "valid": 1, "type": 0}
+{"instruction": "What\u2019s the difference between \u201ca lot of money\u201d and \u201clots of money\u201d?", "valid": 1, "type": 0}
+{"instruction": "Which number comes next in this sequence? 1, 4, 8, 9, 16, ?", "valid": 1, "type": 0}
+{"instruction": "Which one is correct? \"i am very happy with my new car.\" or \"i'm very happy with my new car.\"", "valid": 1, "type": 0}
+{"instruction": "Write a short summary of the following story: a student is taking an exam, and suddenly he realizes that his watch has stopped working. he looks at it again and sees that there are only five minutes left before the end of the exam. the student starts to panic, but then he remembers that he can use the formula (time remaining) / (speed) = distance to figure out how far he can run in those five minutes. what should he do?", "valid": 1, "type": 0}
+{"instruction": "Describe how to start a blog.", "valid": 1, "type": 0}
+{"instruction": "Write a script for an interview between two people who have never met before.", "valid": 1, "type": 0}
+{"instruction": "What is a decorator in python?", "valid": 1, "type": 0}
+{"instruction": "List 5 countries where english is spoken as a native language.", "valid": 1, "type": 0}
+{"instruction": "Write a paragraph about how to become successful in life.", "valid": 0, "type": 4}
+{"instruction": "What is the next number in this sequence: 1, 3, 6, 12, 24, 48, 96?", "valid": 1, "type": 0}
+{"instruction": "Use \"there is\" or \"there are\" in this sentence: \u201cthere are many students at my school who want to study abroad\u201d.", "valid": 1, "type": 0}
+{"instruction": "Explain what is meant by the phrase \"the right of the people.\"", "valid": 1, "type": 0}
+{"instruction": "Find the ten largest cities in russia.", "valid": 0, "type": 1}
+{"instruction": "How many people need help with their homework?", "valid": 0, "type": 1}
+{"instruction": "Write a story about a girl who is on her way home from work and she meets a strange man at the bus stop.", "valid": 1, "type": 0}
+{"instruction": "A company wants to send email messages to its customers about new products. the company is going to hire someone to write code for this purpose. they will pay $100 per hour. how much should they expect to spend on average?", "valid": 1, "type": 0}
+{"instruction": "The temperature in fahrenheit (f) can be converted into celsius (c) using the formula f = c + 32. how many degrees does -10 \u00b0f equal?", "valid": 1, "type": 0}
+{"instruction": "Explain the concept of \"market failure\".", "valid": 1, "type": 0}
+{"instruction": "What are some examples of food names that sound disgusting but taste great?", "valid": 0, "type": 4}
+{"instruction": "What are three things i can do to improve my coding skills?", "valid": 1, "type": 0}
+{"instruction": "If i were to go on vacation for one week, where would i go?", "valid": 0, "type": 4}
+{"instruction": "How can we make it easier for people to be more creative?", "valid": 0, "type": 4}
+{"instruction": "What should be done with the students who cheat on exams?", "valid": 0, "type": 4}
+{"instruction": "Which movie would be interesting to watch with friends? why?", "valid": 0, "type": 4}
+{"instruction": "Write an email to one of the following people: ______________ .", "valid": 1, "type": 0}

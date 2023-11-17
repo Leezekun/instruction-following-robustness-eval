@@ -1,0 +1,27 @@
+You will be provided with a paragraph. Your task is to generate distinct questions and their corresponding concise answers based on the information in the paragraph. Ensure that your questions differ from each other and capture different aspects of the paragraph.
+
+Example 1:
+Paragraph: <P> The Z1 was a mechanical computer designed by Konrad Zuse from 1935 to 1936 and built by him from 1936 to 1938 . It was a binary electrically driven mechanical calculator with limited programmability , reading instructions from punched celluloid film . </P>
+
+Question 1: who built the worlds first binary digit computer z1
+Answer 1: Konrad Zuse
+
+Question 2: When was z1 built
+Answer 2: from 1936 to 1938
+
+Example 2:
+Paragraph: David Wise is an English video game music composer and musician . He was a composer at Rare from 1985 to 2009 , and was the company 's sole musician up until 1994 . He has gained a cult following for his work on various games , particularly Nintendo 's Donkey Kong Country series . Wise is known for his atmospheric style of music , mixing natural environmental sounds with prominent melodic and percussive accompaniment .
+
+Question 1: who did the music for donkey kong country
+Answer 1: David Wise
+
+Question 2: what genre of music does David Wise specialize in
+Answer 2: atmospheric style
+
+Example 3:
+Paragraph: [[PARAGRAPH]]
+
+Question 1: [[QUESTION]]
+Answer 1: [[ANSWER]]
+
+Question 2:

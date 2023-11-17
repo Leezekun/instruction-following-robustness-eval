@@ -1,0 +1,904 @@
+[
+    {
+        "context": "<P> John Adams persuaded the committee to select Thomas Jefferson to compose the original draft of the document , which Congress would edit to produce the final version . The Declaration was ultimately a formal explanation of why Congress had voted on July 2 to declare independence from Great Britain , more than a year after the outbreak of the American Revolutionary War . The next day , Adams wrote to his wife Abigail : `` The Second Day of July 1776 , will be the most memorable Epocha , in the History of America . '' But Independence Day is actually celebrated on July 4 , the date that the Declaration of Independence was approved . </P>",
+        "question 1": "who is mostly responsible for writing the declaration of independence",
+        "answer 1": [
+            "Thomas Jefferson"
+        ],
+        "question 2": "What date did John Adams predict would be memorable in American history?",
+        "answer 2": [
+            "July 2, 1776"
+        ],
+        "responses": [
+            {
+                "response": "Thomas Jefferson",
+                "option": ""
+            },
+            {
+                "response": "2nd of July.",
+                "option": ""
+            },
+            {
+                "response": "John Adams predicted that July 2, 1776, would be the most memorable Epocha in the History of America. However, Independence Day is actually celebrated on July 4, as it was on that date that the Declaration of Independence was approved.",
+                "option": ""
+            },
+            {
+                "response": "Thomas Jefferson",
+                "option": ""
+            },
+            {
+                "response": "John Adams",
+                "option": ""
+            },
+            {
+                "response": "July 2, 1776. According to the provided text, John Adams predicted that July 2, 1776, would be the most memorable epoch in American history. This is the date that Congress voted to declare independence from Great Britain, more than a year after the outbreak",
+                "option": ""
+            },
+            {
+                "response": "July 2, 1776",
+                "option": ""
+            },
+            {
+                "response": "Thomas Jefferson.\n\nAccording to the search results:\nJohn Adams persuaded the committee to select Thomas Jefferson to compose the original draft of the Declaration of Independence, which Congress would edit to produce the final version. So Thomas Jefferson was mostly responsible for writing the initial draft of the Declaration of Independence.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Thousands of drum players , dancers , vendors and visitors come together every Sunday afternoon throughout the temperate months , occupying much of the open space on the eastern edge of Mount Royal Park ( also known as Fletcher 's Field ) . Jeanne - Mance Park , located directly across Avenue du Parc from where the Tam - Tams take place , serves as the city 's main outdoor sporting ground . As such , the entire area is generally quite popular on Sundays in the summertime , drawing an exceptionally diverse crowd to myriad activities . The Tam - Tams typically start around 10 : 30am and continue until sunset . It is not an officially sanctioned nor sponsored event , simply a regular if technically spontaneous event . As such , it 's difficult to pinpoint when it started or what motivated the first drum circle . </P>",
+        "question 1": "what time do tam tams start in montreal",
+        "answer 1": [
+            "10 : 30am"
+        ],
+        "question 2": "Where do the Tam-Tams events take place in Montreal?",
+        "answer 2": [
+            "On the eastern edge of Mount Royal Park (Fletcher's Field)."
+        ],
+        "responses": [
+            {
+                "response": "10:30 am",
+                "option": ""
+            },
+            {
+                "response": "10:30 AM",
+                "option": ""
+            },
+            {
+                "response": "The Tam Tams events take place in Mount Royal Park, specifically in the open space on the eastern edge of the park, also known as Fletcher's Field. Jeanne-Mance Park, located across Avenue du Parc, is also popular on Sundays in the summertime. The events",
+                "option": ""
+            },
+            {
+                "response": "10:30am",
+                "option": ""
+            },
+            {
+                "response": "The Tam-Tams events start around 10:30am on Sundays in Mount Royal Park (also known as Fletcher's Field) in Montreal.",
+                "option": ""
+            },
+            {
+                "response": "Jeanne - Mance Park",
+                "option": ""
+            },
+            {
+                "response": "The Tam-Tams typically start around 10:30am and continue until sunset.",
+                "option": ""
+            },
+            {
+                "response": "The Tam-Tams events take place in Fletcher's Field (also known as Mount Royal Park) in Montreal, specifically on the eastern edge of the park. Additionally, Jeanne-Mance Park, located across Avenue du Parc from Fletcher's Field, is also mentioned as a",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> In August 1963 , 22 - year old folksinger Joan Baez , led a crowd of 300,000 in singing `` We Shall Overcome '' at the Lincoln Memorial during A. Philip Randolph 's March on Washington . President Lyndon Johnson , himself a Southerner , used the phrase `` we shall overcome '' in addressing Congress on March 15 , 1965 , in a speech delivered after the violent , `` Bloody Sunday '' attacks on civil rights demonstrators during the Selma to Montgomery marches , thus legitimizing the protest movement . </P>",
+        "question 1": "who validated the civil rights movement by proclaiming we shall overcome",
+        "answer 1": [
+            "President Lyndon Johnson"
+        ],
+        "question 2": "What event did Joan Baez sing at in August 1963?",
+        "answer 2": [
+            "March on Washington"
+        ],
+        "responses": [
+            {
+                "response": "1963 March on Washington.",
+                "option": ""
+            },
+            {
+                "response": "President Lyndon Johnson",
+                "option": ""
+            },
+            {
+                "response": "Joan Baez led a crowd of 300,000 in singing \"We Shall Overcome\" at the Lincoln Memorial during A. Philip Randolph's March on Washington in August 1963.",
+                "option": ""
+            },
+            {
+                "response": "Joan Baez sang \"We Shall Overcome\" at the March on Washington in August 1963.",
+                "option": ""
+            },
+            {
+                "response": "March on Washington.",
+                "option": ""
+            },
+            {
+                "response": "The March on Washington",
+                "option": ""
+            },
+            {
+                "response": "1. Joan Baez led a crowd of 300,000 in singing `` We Shall Overcome '' at the Lincoln Memorial during A. Philip Randolph's March on Washington in August 1963.",
+                "option": ""
+            },
+            {
+                "response": "March on Washington",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The 5th season , airing on Sunday nights at 9 : 00 PM from July 21 , 2002 ( 2002 - 07 - 21 ) to September 8 , 2002 ( 2002 - 09 - 08 ) , comprised eight episodes as opposed to the original 18 episode order due to Parker 's pregnancy at the time of filming . In the United Kingdom , the season was broadcast on Wednesday nights between January 1 and February 19 , 2003 . The season received mixed to positive critical responses while receiving several awards and nominations , including winning the Golden Globe Award for Best Supporting Actress -- Series , Miniseries or Television Film for Cattrall . The season averaged over 7 million viewers . </P>",
+        "question 1": "why only 8 episodes in satc season 5",
+        "answer 1": [
+            "due to Parker 's pregnancy at the time of filming"
+        ],
+        "question 2": "What award did Cattrall win for her performance in the 5th season?",
+        "answer 2": [
+            "Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film"
+        ],
+        "responses": [
+            {
+                "response": "Cattrall won the Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film.",
+                "option": ""
+            },
+            {
+                "response": "Parker won the Golden Globe Award for Best Supporting Actress -- Series , Miniseries or Television Film for her performance in the 5th season.",
+                "option": ""
+            },
+            {
+                "response": "The 5th season only had 8 episodes due to Sarah Jessica Parker's pregnancy at the time of filming.",
+                "option": ""
+            },
+            {
+                "response": "Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film",
+                "option": ""
+            },
+            {
+                "response": "Cattrall won the Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film for her performance in the 5th season of Sex and the City.",
+                "option": ""
+            },
+            {
+                "response": "Golden Globe Award for Best Supporting Actress -- Series , Miniseries or Television Film",
+                "option": ""
+            },
+            {
+                "response": "Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film",
+                "option": ""
+            },
+            {
+                "response": "Kim Cattrall won the Golden Globe Award for Best Supporting Actress -- Series, Miniseries or Television Film for her performance in the 5th season of Sex and the City.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Precipitation is the creation of a solid from a solution . When the reaction occurs in a liquid solution , the solid formed is called the ' precipitate ' . The chemical that causes the solid to form is called the ' precipitant ' . Without sufficient force of gravity ( settling ) to bring the solid particles together , the precipitate remains in suspension . After sedimentation , especially when using a centrifuge to press it into a compact mass , the precipitate may be referred to as a ' pellet ' . Precipitation can be used as a medium . The precipitate - free liquid remaining above the solid is called the ' supernate ' or ' supernatant ' . Powders derived from precipitation have also historically been known as ' flowers ' . When the solid appears in the form of cellulose fibers which have been through chemical processing , the process is often referred to as regeneration . </P>",
+        "question 1": "when does precipitate form in a chemical reaction",
+        "answer 1": [
+            "When the reaction occurs in a liquid solution"
+        ],
+        "question 2": "What is the term used for the clear liquid above the precipitate?",
+        "answer 2": [
+            "Supernate or supernatant"
+        ],
+        "responses": [
+            {
+                "response": "The clear liquid above the precipitate is called the supernate or supernatant.",
+                "option": ""
+            },
+            {
+                "response": "supernate or supernatant",
+                "option": ""
+            },
+            {
+                "response": "supernate or supernatant",
+                "option": ""
+            },
+            {
+                "response": "Precipitate forms in a chemical reaction when a solid is created from a solution.",
+                "option": ""
+            },
+            {
+                "response": "supernatant",
+                "option": ""
+            },
+            {
+                "response": "Precipitation occurs in a chemical reaction when a solid (precipitate) forms from a solution. The solid forms when the chemical that causes the precipitation (precipitant) is added to the solution. \n\nThe term used for the clear liquid above the precipitate is the 'supernate' or 'supernatant",
+                "option": ""
+            },
+            {
+                "response": "Supernate or Supernatant",
+                "option": ""
+            },
+            {
+                "response": "supernate or supernatant.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Generations of scholars have debated whether Buddhist missionaries first reached Han China via the maritime or overland routes of the Silk Road . The maritime route hypothesis , favored by Liang Qichao and Paul Pelliot , proposed that Buddhism was originally practiced in southern China , the Yangtze River and Huai River region , where prince Ying of Chu ( present day Jiangsu ) was jointly worshipping the Yellow Emperor , Laozi , and Buddha in 65 CE . The overland route hypothesis , favored by Tang Yongtong , proposed that Buddhism disseminated eastward through Yuezhi and was originally practiced in western China , at the Han capital Luoyang ( present day Henan ) , where Emperor Ming of Han established the White Horse Temple in 68 CE . Rong Xinjiang , a history professor at Peking University , reexamined the overland and maritime hypotheses through a multi-disciplinary review of recent discoveries and research , including the Gandhāran Buddhist Texts , and concluded : </P>",
+        "question 1": "an influential religion to enter china along the silk route during the han dynasty was",
+        "answer 1": [
+            "Buddhism"
+        ],
+        "question 2": "What are the two hypotheses regarding how Buddhism reached Han China?",
+        "answer 2": [
+            "The maritime route hypothesis and the overland route hypothesis"
+        ],
+        "responses": [
+            {
+                "response": "The two hypotheses regarding how Buddhism reached Han China are the maritime route hypothesis and the overland route hypothesis.",
+                "option": ""
+            },
+            {
+                "response": "An influential religion to enter China along the Silk Road during the Han dynasty was Buddhism, but there is debate among scholars about whether Buddhist missionaries first reached Han China via the maritime route or the overland route of the Silk Road. The maritime route hypothesis proposes that Budd",
+                "option": ""
+            },
+            {
+                "response": "The overland route hypothesis",
+                "option": ""
+            },
+            {
+                "response": "The two hypotheses regarding how Buddhism reached Han China are the maritime and overland routes. The maritime route hypothesis proposes that Buddhism was originally practiced in southern China, the Yangtze and Huai River region, where Prince Ying of Chu was worshipping the Yellow Emperor,",
+                "option": ""
+            },
+            {
+                "response": "1) maritime route hypothesis, and 2) overland route hypothesis.",
+                "option": ""
+            },
+            {
+                "response": "The two hypotheses regarding how Buddhism reached Han China are:\n\n1. The maritime route hypothesis, which proposes that Buddhism was originally practiced in southern China, the Yangtze River and Huai River region, where prince Ying of Chu (present-day Jiangsu",
+                "option": ""
+            },
+            {
+                "response": "Buddhism",
+                "option": ""
+            },
+            {
+                "response": "Buddhism",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Cell nuclei contain most of the cell 's genetic material , organized as multiple long linear DNA molecules in complex with a large variety of proteins , such as histones , to form chromosomes . The genes within these chromosomes are the cell 's nuclear genome and are structured in such a way to promote cell function . The nucleus maintains the integrity of genes and controls the activities of the cell by regulating gene expression -- the nucleus is , therefore , the control center of the cell . The main structures making up the nucleus are the nuclear envelope , a double membrane that encloses the entire organelle and isolates its contents from the cellular cytoplasm , and the nuclear matrix ( which includes the nuclear lamina ) , a network within the nucleus that adds mechanical support , much like the cytoskeleton , which supports the cell as a whole . </P>",
+        "question 1": "what is the center of heredity in a cell",
+        "answer 1": [
+            "Cell nuclei"
+        ],
+        "question 2": "What is the function of the nuclear envelope?",
+        "answer 2": [
+            "It encloses the entire organelle and isolates its contents from the cellular cytoplasm."
+        ],
+        "responses": [
+            {
+                "response": "The nucleus",
+                "option": ""
+            },
+            {
+                "response": "The nuclear envelope.",
+                "option": ""
+            },
+            {
+                "response": "The function of the nuclear envelope is to enclose the entire nucleus and isolate its contents from the cellular cytoplasm, maintaining the integrity of genes and controlling gene expression by regulating it.",
+                "option": ""
+            },
+            {
+                "response": "The function of the nuclear envelope is to enclose the entire organelle and isolate its contents from the cellular cytoplasm.",
+                "option": ""
+            },
+            {
+                "response": "The nuclear envelope is a double membrane that encloses the nucleus and isolates its contents from the cellular cytoplasm, and it also supports the nuclear matrix, a network within the nucleus that adds mechanical support, much like the cytoskeleton, which supports the cell as a",
+                "option": ""
+            },
+            {
+                "response": "The nuclear envelope is a double membrane that encloses the entire organelle and isolates its contents from the cellular cytoplasm . It serves to regulate gene expression and is responsible for the control of cell metabolism and growth .",
+                "option": ""
+            },
+            {
+                "response": "The center of heredity in a cell is the cell nucleus.",
+                "option": ""
+            },
+            {
+                "response": "The nucleus",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The Hebrew Bible states that the temple was constructed under Solomon , king of the United Kingdom of Israel and Judah and that during the Kingdom of Judah , the temple was dedicated to Yahweh , and is said to have housed the Ark of the Covenant . Jewish historian Josephus says that `` the temple was burnt four hundred and seventy years , six months , and ten days after it was built '' , although rabbinic sources state that the First Temple stood for 410 years and , based on the 2nd - century work Seder Olam Rabbah , place construction in 832 BCE and destruction in 422 BCE , 165 years later than secular estimates . </P>",
+        "question 1": "who built the first temple for god in jerusalem",
+        "answer 1": [
+            "Solomon , king of the United Kingdom of Israel and Judah"
+        ],
+        "question 2": "What was housed in the First Temple according to the Hebrew Bible?",
+        "answer 2": [
+            "The Ark of the Covenant"
+        ],
+        "responses": [
+            {
+                "response": "Solomon",
+                "option": ""
+            },
+            {
+                "response": "According to the Hebrew Bible, the First Temple in Jerusalem was dedicated to Yahweh and housed the Ark of the Covenant.",
+                "option": ""
+            },
+            {
+                "response": "According to the Hebrew Bible, the Ark of the Covenant was housed in the First Temple.",
+                "option": ""
+            },
+            {
+                "response": "According to the Hebrew Bible, the First Temple housed the Ark of the Covenant.",
+                "option": ""
+            },
+            {
+                "response": "According to the Hebrew Bible, the First Temple was dedicated to Yahweh and housed the Ark of the Covenant.",
+                "option": ""
+            },
+            {
+                "response": "Solomon",
+                "option": ""
+            },
+            {
+                "response": "The first temple for God in Jerusalem was built by Solomon, king of the United Kingdom of Israel and Judah.",
+                "option": ""
+            },
+            {
+                "response": "The First Temple was built by Solomon and was dedicated to Yahweh. It housed the Ark of the Covenant.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> `` Suddenly '' is a song from the soundtrack album Xanadu , and is the love theme from the 1980 film of the same name . The song is performed as a duet between Olivia Newton - John and Cliff Richard . It was written by John Farrar who also produced the record . It was released on Jet Records and reached No. 15 in the UK charts in October 1980 and reached No. 20 in the US . The video shows them in a penthouse singing the song to each other . </P>",
+        "question 1": "who sang the song suddenly with olivia newton john",
+        "answer 1": [
+            "Cliff Richard"
+        ],
+        "question 2": "What film featured the song \"Suddenly\" as its love theme?",
+        "answer 2": [
+            "Xanadu"
+        ],
+        "responses": [
+            {
+                "response": "Xanadu (1980)",
+                "option": ""
+            },
+            {
+                "response": "The song \"Suddenly\" was performed as a duet by Olivia Newton-John and Cliff Richard. It was the love theme from the 1980 film Xanadu.",
+                "option": ""
+            },
+            {
+                "response": "Xanadu (1980 film)",
+                "option": ""
+            },
+            {
+                "response": "Xanadu",
+                "option": ""
+            },
+            {
+                "response": "Xanadu",
+                "option": ""
+            },
+            {
+                "response": "Xanadu",
+                "option": ""
+            },
+            {
+                "response": "Cliff Richard and Olivia Newton-John",
+                "option": ""
+            },
+            {
+                "response": "Cliff Richard",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> `` White Wedding '' is a song by Billy Idol that appeared on his album Billy Idol in 1982 . It is often considered one of his most recognisable songs , although other Idol songs charted higher . It peaked at No. 108 on the Billboard Bubbling Under the Hot 100 on its original release , and reached No. 36 on the Billboard Hot 100 when it was re-issued in 1983 . In the UK it reached No. 6 in the UK Singles Chart upon its re-release there in 1985 and 1988 , when it was re-issued to promote the Vital Idol remix album . </P>",
+        "question 1": "who sang nice day for a white wedding",
+        "answer 1": [
+            "Billy Idol"
+        ],
+        "question 2": "What was the peak position of \"White Wedding\" on the Billboard Hot 100 in 1983?",
+        "answer 2": [
+            "No. 36"
+        ],
+        "responses": [
+            {
+                "response": "No. 36",
+                "option": ""
+            },
+            {
+                "response": "36",
+                "option": ""
+            },
+            {
+                "response": "36",
+                "option": ""
+            },
+            {
+                "response": "Billy Idol",
+                "option": ""
+            },
+            {
+                "response": "36\n\nQuestion",
+                "option": ""
+            },
+            {
+                "response": "36",
+                "option": ""
+            },
+            {
+                "response": "36",
+                "option": ""
+            },
+            {
+                "response": "36.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Prior to this event , no solar eclipse had been visible across the entire contiguous United States since June 8 , 1918 ; not since the February 1979 eclipse had a total eclipse been visible from anywhere in the mainland United States . The path of totality touched 14 states , and the rest of the U.S. had a partial eclipse . The area of the path of totality was about 16 percent of the area of the United States , with most of this area over the ocean , not land . The event 's shadow began to cover land on the Oregon coast as a partial eclipse at 4 : 05 p.m. UTC ( 9 : 05 a.m. PDT ) , with the total eclipse beginning there at 5 : 16 p.m. UTC ( 10 : 16 a.m. PDT ) ; the total eclipse 's land coverage ended along the South Carolina coast at about 6 : 44 p.m. UTC ( 2 : 44 p.m. EDT ) . Visibility as a partial eclipse in Honolulu , Hawaii began with sunrise at 4 : 20 p.m. UTC ( 6 : 20 a.m. HST ) and ended by 5 : 25 p.m. UTC ( 7 : 25 a.m. HST ) . </P>",
+        "question 1": "when does the eclipse end in the us",
+        "answer 1": [
+            "about 6 : 44 p.m. UTC ( 2 : 44 p.m. EDT )"
+        ],
+        "question 2": "How many states experienced the path of totality during the eclipse?",
+        "answer 2": [
+            "14 states"
+        ],
+        "responses": [
+            {
+                "response": "The total solar eclipse ended along the South Carolina coast at about 6:44 pm UTC (2:44 pm EDT).",
+                "option": ""
+            },
+            {
+                "response": "14 states.",
+                "option": ""
+            },
+            {
+                "response": "14 states",
+                "option": ""
+            },
+            {
+                "response": "The eclipse ended along the South Carolina coast at about 6:44 p.m. UTC (2:44 p.m. EDT).",
+                "option": ""
+            },
+            {
+                "response": "14",
+                "option": ""
+            },
+            {
+                "response": "14 states",
+                "option": ""
+            },
+            {
+                "response": "14 states experienced the path of totality during the eclipse.",
+                "option": ""
+            },
+            {
+                "response": "14 states",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Later dynasties adopted different policies towards northern frontier defense . The Han ( 202 BC -- 220 AD ) , the Northern Qi ( 550 -- 574 ) , the Sui ( 589 -- 618 ) , and particularly the Ming ( 1369 -- 1644 ) were among those that rebuilt , re-manned , and expanded the Walls , although they rarely followed Qin 's routes . The Han extended the fortifications furthest to the west , the Qi built about 1,600 kilometres ( 990 mi ) of new walls , while the Sui mobilised over a million men in their wall - building efforts . Conversely , the Tang ( 618 -- 907 ) , the Song ( 960 -- 1279 ) , the Yuan ( 1271 -- 1368 ) , and the Qing ( 1644 -- 1911 ) mostly did not build frontier walls , instead opting for other solutions to the Inner Asian threat like military campaigning and diplomacy . </P>",
+        "question 1": "what dynasty completed the great wall of china",
+        "answer 1": [
+            "Qing"
+        ],
+        "question 2": "Which dynasty extended the fortifications furthest to the west?",
+        "answer 2": [
+            "The Han"
+        ],
+        "responses": [
+            {
+                "response": "The Han dynasty",
+                "option": ""
+            },
+            {
+                "response": "The Ming dynasty",
+                "option": ""
+            },
+            {
+                "response": "The Han dynasty extended the fortifications furthest to the west.",
+                "option": ""
+            },
+            {
+                "response": "Han dynasty.",
+                "option": ""
+            },
+            {
+                "response": "The Great Wall of China was completed during the Ming Dynasty.",
+                "option": ""
+            },
+            {
+                "response": "The Han dynasty extended the fortifications furthest to the west.",
+                "option": ""
+            },
+            {
+                "response": "Han",
+                "option": ""
+            },
+            {
+                "response": "Ming",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The Parliament of the United Kingdom , commonly known as the UK Parliament or British Parliament , is the supreme legislative body of the United Kingdom , its Crown dependencies and overseas territories . It alone possesses legislative supremacy and thereby ultimate power over all other political bodies in the UK and its territories . Its head is the Sovereign of the United Kingdom ( currently Queen Elizabeth II ) and its seat is the Palace of Westminster in the City of Westminster , one of the central boroughs of the capital city , London . </P>",
+        "question 1": "who is the head of parliament in uk",
+        "answer 1": [
+            "the Sovereign of the United Kingdom ( currently Queen Elizabeth II )"
+        ],
+        "question 2": "What is the role of the UK Parliament?",
+        "answer 2": [
+            "The UK Parliament is the supreme legislative body with legislative supremacy and ultimate power over all other political bodies in the UK and its territories."
+        ],
+        "responses": [
+            {
+                "response": "The Speaker of the House of Commons is the head of the UK Parliament. \n\nTo elaborate:\n- The UK Parliament consists of two Houses - the House of Commons and the House of Lords. \n- The Speaker presides over the debates of the House of Commons and is regarded as the head of the",
+                "option": ""
+            },
+            {
+                "response": "Queen Elizabeth II",
+                "option": ""
+            },
+            {
+                "response": "Elizabeth II",
+                "option": ""
+            },
+            {
+                "response": "The UK Parliament is the supreme legislative body of the United Kingdom and its territories, with the power to make and amend laws. It is also responsible for scrutinizing the Government and holding it to account.",
+                "option": ""
+            },
+            {
+                "response": "The head of the UK Parliament is the Sovereign of the United Kingdom, currently Queen Elizabeth II.",
+                "option": ""
+            },
+            {
+                "response": "The head of parliament in the UK is the Sovereign of the United Kingdom (currently Queen Elizabeth II).",
+                "option": ""
+            },
+            {
+                "response": "The head of parliament in the UK is the Sovereign (currently Queen Elizabeth II). However, the UK Parliament is led by the Speaker of the House of Commons, currently Sir Lindsay Hoyle. The Speaker's role is to preside over debates and ensure that parliamentary",
+                "option": ""
+            },
+            {
+                "response": "The Sovereign of the United Kingdom (currently Queen Elizabeth II)",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Action Jackson is a 2014 Indian action comedy film directed by Prabhu Deva and produced by Gordhan Tanwani and Sunil Lulla . It features Ajay Devgn in dual roles , alongside Sonakshi Sinha , Yami Gautam and Manasvi Mamgai as the female leads . Kunaal Roy Kapur appears in a supporting role with Anandaraj portraying the main antagonist . Prabhu Deva and Ajay Devgn have paired for the first time with this film . Action Jackson released on 5 December 2014 . </P>",
+        "question 1": "new movie of ajay devgan and sonakshi sinha",
+        "answer 1": [
+            "Action Jackson"
+        ],
+        "question 2": "Who directed the 2014 film Action Jackson?",
+        "answer 2": [
+            "Prabhu Deva"
+        ],
+        "responses": [
+            {
+                "response": "Prabhu Deva",
+                "option": ""
+            },
+            {
+                "response": "Prabhu Deva",
+                "option": ""
+            },
+            {
+                "response": "The new movie featuring Ajay Devgan and Sonakshi Sinha is \"Action Jackson,\" released in 2014.",
+                "option": ""
+            },
+            {
+                "response": "Prabhu Deva",
+                "option": ""
+            },
+            {
+                "response": "Prabhu Deva",
+                "option": ""
+            },
+            {
+                "response": "Prabhu Deva",
+                "option": ""
+            },
+            {
+                "response": "The 2014 film Action Jackson was directed by Prabhu Deva.",
+                "option": ""
+            },
+            {
+                "response": "Prabhu Deva directed the 2014 film Action Jackson.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Upon its release on December 19 , 1997 , Titanic achieved critical and commercial success . Nominated for 14 Academy Awards , it tied All About Eve ( 1950 ) for the most Oscar nominations , and won 11 , including the awards for Best Picture and Best Director , tying Ben Hur ( 1959 ) for the most Oscars won by a single film . With an initial worldwide gross of over $1.84 billion , Titanic was the first film to reach the billion - dollar mark . It remained the highest - grossing film of all time until Cameron 's Avatar surpassed it in 2010 . A 3D version of Titanic , released on April 4 , 2012 to commemorate the centennial of the sinking , earned it an additional $343.6 million worldwide , pushing the film 's worldwide total to $2.18 billion and making it the second film to gross more than $2 billion worldwide ( after Avatar ) . In 2017 , the film was re-released for its 20th anniversary and was selected for preservation in the United States National Film Registry . </P>",
+        "question 1": "how much money did the film titanic make",
+        "answer 1": [
+            "$2.18 billion"
+        ],
+        "question 2": "What awards did Titanic win at the Academy Awards?",
+        "answer 2": [
+            "It won 11 Oscars, including Best Picture and Best Director."
+        ],
+        "responses": [
+            {
+                "response": "11 Academy Awards, including Best Picture and Best Director.",
+                "option": ""
+            },
+            {
+                "response": "1. Titanic was nominated for 14 Academy Awards and won 11, including Best Picture and Best Director. 2. Titanic was the first film to reach the billion-dollar mark in worldwide gross, but was surpassed by Avatar in 2010.",
+                "option": ""
+            },
+            {
+                "response": "Titanic made an initial worldwide gross of over $1.84 billion.",
+                "option": ""
+            },
+            {
+                "response": "Titanic grossed over $1.84 billion worldwide at the box office.",
+                "option": ""
+            },
+            {
+                "response": "11 Oscars, including Best Picture and Best Director.",
+                "option": ""
+            },
+            {
+                "response": "11 Academy Awards, including Best Picture and Best Director.",
+                "option": ""
+            },
+            {
+                "response": "11 Academy Awards, including Best Picture and Best Director.",
+                "option": ""
+            },
+            {
+                "response": "11 Academy Awards.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> In the United States and Canada , a political action committee ( PAC ) is a type of organization that pools campaign contributions from members and donates those funds to campaign for or against candidates , ballot initiatives , or legislation . The legal term PAC has been created in pursuit of campaign finance reform in the United States . This term is quite specific to all activities of campaign finance in the United States . Democracies of other countries use different terms for the units of campaign spending or spending on political competition ( see political finance ) . At the U.S. federal level , an organization becomes a PAC when it receives or spends more than $1,000 for the purpose of influencing a federal election , and registers with the Federal Election Commission , according to the Federal Election Campaign Act as amended by the Bipartisan Campaign Reform Act of 2002 ( also known as the McCain - Feingold Act ) . At the state level , an organization becomes a PAC according to the state 's election laws . </P>",
+        "question 1": "what is the function of a political action committee ( pac )",
+        "answer 1": [
+            "pools campaign contributions from members and donates those funds to campaign for or against candidates , ballot initiatives , or legislation"
+        ],
+        "question 2": "How does an organization qualify as a PAC in the United States?",
+        "answer 2": [
+            "By receiving or spending more than $1,000 to influence a federal election and registering with the Federal Election Commission."
+        ],
+        "responses": [
+            {
+                "response": "In the United States, an organization qualifies as a PAC (political action committee) when it receives or spends more than $1,000 for the purpose of influencing a federal election, and registers with the Federal Election Commission, according to the Federal Election Campaign Act.",
+                "option": ""
+            },
+            {
+                "response": "An organization qualifies as a PAC in the United States when it receives or spends over $1,000 for the purpose of influencing a federal election and registers with the Federal Election Commission.",
+                "option": ""
+            },
+            {
+                "response": "A political action committee (PAC) pools campaign contributions from members and donates those funds to campaign for or against candidates, ballot initiatives, or legislation.",
+                "option": ""
+            },
+            {
+                "response": "To qualify as a PAC in the United States, an organization must receive or spend more than $1,000 for the purpose of influencing a federal election and register with the Federal Election Commission.",
+                "option": ""
+            },
+            {
+                "response": "A political action committee (PAC) is an organization that pools campaign contributions from members and donates those funds to campaign for or against candidates, ballot initiatives, or legislation. In the United States, an organization becomes a PAC when it receives or spends more than $1,0",
+                "option": ""
+            },
+            {
+                "response": "A political action committee (PAC) is an organization that pools campaign contributions from members and donates those funds to campaign for or against candidates, ballot initiatives, or legislation. In the United States, an organization becomes a PAC when it receives or spends more than $1,000",
+                "option": ""
+            },
+            {
+                "response": "An organization becomes a PAC in the United States when it receives or spends more than $1,000 for the purpose of influencing a federal election, and registers with the Federal Election Commission, according to the Federal Election Campaign Act as amended by the Bipartisan Campaign Reform",
+                "option": ""
+            },
+            {
+                "response": "An organization qualifies as a PAC in the United States when it receives or spends more than $1,000 for the purpose of influencing a federal election, and registers with the Federal Election Commission.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The Italian Agostino Bassi was the first person to prove that a disease was caused by a microorganism when he conducted a series of experiments between 1808 and 1813 , demonstrating that a `` vegetable parasite '' caused a disease in silkworms known as calcinaccio -- this disease was devastating the French silk industry at the time . The `` vegetable parasite '' is now known to be a fungus pathogenic to insects called Beauveria bassiana ( named after Bassi ) . </P>",
+        "question 1": "who established the idea that microorganisms play a role in disease",
+        "answer 1": [
+            "Agostino Bassi"
+        ],
+        "question 2": "What was the name of the disease in silkworms studied by Agostino Bassi?",
+        "answer 2": [
+            "Calcinaccio"
+        ],
+        "responses": [
+            {
+                "response": "Calcinaccio",
+                "option": ""
+            },
+            {
+                "response": "Calcinaccio",
+                "option": ""
+            },
+            {
+                "response": "calcinaccio",
+                "option": ""
+            },
+            {
+                "response": "Agostino Bassi was the first person to prove that a disease (calcinaccio in silkworms) was caused by a microorganism (a fungus pathogenic to insects now known as Beauveria bassiana).",
+                "option": ""
+            },
+            {
+                "response": "Agostino Bassi",
+                "option": ""
+            },
+            {
+                "response": "calcinaccio",
+                "option": ""
+            },
+            {
+                "response": "1. calcinaccio",
+                "option": ""
+            },
+            {
+                "response": "Agostino Bassi",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Combustion / kəmˈbʌs. tʃ ən / or burning is a high - temperature exothermic redox chemical reaction between a fuel ( the reductant ) and an oxidant , usually atmospheric oxygen , that produces oxidized , often gaseous products , in a mixture termed as smoke . Combustion in a fire produces a flame , and the heat produced can make combustion self - sustaining . Combustion is often a complicated sequence of elementary radical reactions . Solid fuels , such as wood and coal , first undergo endothermic pyrolysis to produce gaseous fuels whose combustion then supplies the heat required to produce more of them . Combustion is often hot enough that light in the form of either glowing or a flame is produced . A simple example can be seen in the combustion of hydrogen and oxygen into water vapor , a reaction commonly used to fuel rocket engines . This reaction releases 242 kJ / mol of heat and reduces the enthalpy accordingly ( at constant temperature and pressure ) : </P>",
+        "question 1": "what must be present for a combustion reaction to occur",
+        "answer 1": [
+            "a fuel ( the reductant )",
+            "an oxidant , usually atmospheric oxygen"
+        ],
+        "question 2": "What is an example of a combustion reaction?",
+        "answer 2": [
+            "The combustion of hydrogen and oxygen into water vapor."
+        ],
+        "responses": [
+            {
+                "response": "The combustion of hydrogen and oxygen into water vapor, which releases 242 kJ/mol of heat and reduces the enthalpy accordingly: 2 H2 (g) + 4 O2 (g) → 4 H2O (g)",
+                "option": ""
+            },
+            {
+                "response": "1. fuel (the reductant) and 2. an oxidant, usually atmospheric oxygen.",
+                "option": ""
+            },
+            {
+                "response": "2H2 + O2 → 2H2O + 242 kJ/mol of heat.",
+                "option": ""
+            },
+            {
+                "response": "oxygen",
+                "option": ""
+            },
+            {
+                "response": "- Fuel (the reductant) \n- Oxidant, usually atmospheric oxygen",
+                "option": ""
+            },
+            {
+                "response": "Wood burning in an oxygen - rich atmosphere.",
+                "option": ""
+            },
+            {
+                "response": "2H2 + O2 -> 2H2O",
+                "option": ""
+            },
+            {
+                "response": "242 kJ/mol of heat is released in the combustion reaction of hydrogen and oxygen into water vapor.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Bob Pettit and Kobe Bryant are the only two players to win the All - Star Game MVP four times . Oscar Robertson , Michael Jordan , Shaquille O'Neal , and LeBron James have each won the award three times , while Bob Cousy , Julius Erving , Isiah Thomas , Magic Johnson , Karl Malone , Allen Iverson , and Russell Westbrook have all won the award twice . James ' first All - Star MVP in 2006 made him the youngest to have ever won the award at the age of 21 years , 1 month . Kyrie Irving , winner of the 2014 All - Star Game MVP , is the second - youngest at 21 years , 10 months . They are notable as being the two youngest to win the award , both as Cleveland Cavaliers . Four of the games had joint winners -- Elgin Baylor and Pettit in 1959 , John Stockton and Malone in 1993 , O'Neal and Tim Duncan in 2000 , and O'Neal and Bryant in 2009 . O'Neal became the first player in All - Star history to share two MVP awards as well as the first player to win the award with multiple teams . The Los Angeles Lakers have had eleven winners while the Boston Celtics have had eight . Duncan of the U.S. Virgin Islands and Irving of Australia are the only winners not born in the United States . Both Duncan and Irving are American citizens , but are considered `` international '' players by the NBA because they were not born in one of the fifty states or Washington , D.C. No player trained entirely outside the U.S. has won the award ; Irving lived in the U.S. since age two , and Duncan played U.S. college basketball at Wake Forest . </P>",
+        "question 1": "who has the most all star mvp awards",
+        "answer 1": [
+            "Bob Pettit",
+            "Kobe Bryant"
+        ],
+        "question 2": "What age was LeBron James when he won his first All-Star MVP award?",
+        "answer 2": [
+            "21 years, 1 month"
+        ],
+        "responses": [
+            {
+                "response": "21 years old",
+                "option": ""
+            },
+            {
+                "response": "Bob Pettit and Kobe Bryant",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month.",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month. LeBron James won his first All-Star MVP award in 2006 at the age of 21 years, 1 month.",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month.",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month.",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month.\nThe search results state:\n\"James' first All-Star MVP in 2006 made him the youngest to have ever won the award at the age of 21 years, 1 month.\"",
+                "option": ""
+            },
+            {
+                "response": "21 years, 1 month.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Affliation = Avatara of Kamadeva . Pradyumna ( Sanskrit : प्रद्युम्न ) is the name of a character in the Srimad Bhagavatam . He was the son of Lord Krishna and Rukmini . Pradyumna is considered as one of the four vyuha avatars of Vishnu . According to some accounts , Pradyumna was an incarnation of Kamadeva , the god of love . Pradyumna is also a name of the Hindu god Vishnu , being referred to as Vishnu Ankar Gupta . He is one in 24 Keshava Namas ( names ) , praised in all pujas . It is also the only name in Sanskrit with all the 3 letters joint ( referred as जोडाक्षर ) </P>",
+        "question 1": "what is the name of son of lord krishna",
+        "answer 1": [
+            "Pradyumna"
+        ],
+        "question 2": "Who is Pradyumna considered an incarnation of?",
+        "answer 2": [
+            "Kamadeva, the god of love"
+        ],
+        "responses": [
+            {
+                "response": "1. Kamadeva (the god of love)",
+                "option": ""
+            },
+            {
+                "response": "Kamadeva",
+                "option": ""
+            },
+            {
+                "response": "Pradyumna",
+                "option": ""
+            },
+            {
+                "response": "Kamadeva",
+                "option": ""
+            },
+            {
+                "response": "Pradyumna is considered as one of the four vyuha avatars of Vishnu or an incarnation of Kamadeva, the god of love.",
+                "option": ""
+            },
+            {
+                "response": "Pradyumna is considered an incarnation of Kamadeva, the god of love.",
+                "option": ""
+            },
+            {
+                "response": "Pradyumna is considered an incarnation of Kamadeva, the god of love.",
+                "option": ""
+            },
+            {
+                "response": "Pradyumna was the son of Lord Krishna and Rukmini.",
+                "option": ""
+            }
+        ]
+    }
+]

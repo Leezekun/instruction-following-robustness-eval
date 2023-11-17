@@ -1,0 +1,910 @@
+[
+    {
+        "context": "<P> `` It Ai n't Me '' is a song by Norwegian DJ Kygo and American singer Selena Gomez . It was released by Interscope Records , Sony and Ultra on 17 February 2017 as the lead single from Kygo 's first EP , Stargazing . The song was written by Kygo , Gomez , Andrew Watt , Brian Lee and Ali Tamposi . It was produced by Kygo , Watt , Ben Rice and Louis Bell . A dance - pop , electropop and tropical house song , `` It Ai n't Me '' comprises an acoustic guitar line , and a build - drop arrangement in its chorus featuring pulsing piano notes , bass , synthesizers , finger - snap claps and pan flute melodies . Gomez sings the track in a husky tone , while in the chorus her vocals are reduced to recurring syllables . The lyrics are nostalgic and narrate a past relationship ruined by alcoholism and partying too often . </P>",
+        "question 1": "who sings the song it ai n 't me",
+        "answer 1": [
+            "Selena Gomez"
+        ],
+        "question 2": "What genres does \"It Ain't Me\" fall under?",
+        "answer 2": [
+            "dance-pop, electropop, and tropical house"
+        ],
+        "responses": [
+            {
+                "response": "\"It Ain't Me\" falls under the genres of dance-pop, electropop, and tropical house.",
+                "option": "B"
+            },
+            {
+                "response": "\"It Ain't Me\" falls under the genres of dance-pop, electropop, and tropical house.",
+                "option": "B"
+            },
+            {
+                "response": "Dance-Pop, Electropop, Tropical House",
+                "option": "B"
+            },
+            {
+                "response": "\"It Ain't Me\" is a dance-pop, electropop and tropical house song by Selena Gomez and Kygo.",
+                "option": "C"
+            },
+            {
+                "response": "Selena Gomez",
+                "option": "A"
+            },
+            {
+                "response": "1. dance-pop, 2. electropop, and 3. tropical house.",
+                "option": "B"
+            },
+            {
+                "response": "* dance-pop\n* electropop\n* tropical house",
+                "option": "B"
+            },
+            {
+                "response": "Dance-pop, electropop, and tropical house",
+                "option": "B"
+            }
+        ]
+    },
+    {
+        "context": "<P> Santa Claus , also known as Saint Nicholas , Kris Kringle , Father Christmas , or simply Santa , is a legendary figure originating in Western Christian culture who is said to bring gifts to the homes of well - behaved ( `` good '' or `` nice '' ) children on Christmas Eve ( 24 December ) and the early morning hours of Christmas Day ( 25 December ) . The modern Santa Claus grew out of traditions surrounding the historical Saint Nicholas ( a fourth - century Greek bishop and gift - giver of Myra ) , the British figure of Father Christmas and the Dutch figure of Sinterklaas ( himself also based on Saint Nicholas ) . Some maintain Santa Claus also absorbed elements of the Germanic god Wodan , who was associated with the pagan midwinter event of Yule and led the Wild Hunt , a ghostly procession through the sky . </P>",
+        "question 1": "who is the character of santa claus based on",
+        "answer 1": [
+            "Saint Nicholas",
+            "Father Christmas",
+            "Sinterklaas",
+            "Wodan"
+        ],
+        "question 2": "When does Santa Claus deliver gifts to children?",
+        "answer 2": [
+            "On Christmas Eve (24 December) and the early morning hours of Christmas Day (25 December)"
+        ],
+        "responses": [
+            {
+                "response": "The character of Santa Claus is based on the historical Saint Nicholas, a fourth-century Greek bishop and gift-giver of Myra, as well as the British figure of Father Christmas and the Dutch figure of Sinterklaas, who is also based on Saint Nicholas.",
+                "option": "A"
+            },
+            {
+                "response": "24 December (Christmas Eve) and the early morning hours of Christmas Day (25 December).",
+                "option": ""
+            },
+            {
+                "response": "24 December (Christmas Eve) and the early morning hours of 25 December (Christmas Day)",
+                "option": ""
+            },
+            {
+                "response": "24 December (Christmas Eve) and the early morning hours of 25 December (Christmas Day)",
+                "option": ""
+            },
+            {
+                "response": "Santa Claus delivers gifts to children on Christmas Eve (December 24) and the early morning hours of Christmas Day (December 25).",
+                "option": ""
+            },
+            {
+                "response": "Santa Claus delivers gifts to children on Christmas Eve (24 December) and the early morning hours of Christmas Day (25 December).",
+                "option": ""
+            },
+            {
+                "response": "Saint Nicholas.",
+                "option": ""
+            },
+            {
+                "response": "24 December and 25 December",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Howard Ellsworth Rollins Jr . ( October 17 , 1950 -- December 8 , 1996 ) was an American stage , film and television actor . Howard Rollins was best known for his role as Andrew Young in 1978 's King , George Haley in the 1979 miniseries Roots : The Next Generations , Coalhouse Walker Jr. in the 1981 film Ragtime , Captain Davenport in the 1984 film A Soldier 's Story , and as Virgil Tibbs on the crime drama In the Heat of the Night . </P>",
+        "question 1": "who played tibbs on in the heat of the night",
+        "answer 1": [
+            "Howard Ellsworth Rollins Jr ."
+        ],
+        "question 2": "What notable role did Howard Rollins play in the 1981 film Ragtime?",
+        "answer 2": [
+            "Coalhouse Walker Jr."
+        ],
+        "responses": [
+            {
+                "response": "Coalhouse Walker Jr.",
+                "option": ""
+            },
+            {
+                "response": "Howard Rollins played Coalhouse Walker Jr. in the 1981 film Ragtime.",
+                "option": ""
+            },
+            {
+                "response": "Howard Rollins played the role of Coalhouse Walker Jr. in the 1981 film Ragtime.",
+                "option": ""
+            },
+            {
+                "response": "Coalhouse Walker Jr.",
+                "option": ""
+            },
+            {
+                "response": "Coalhouse Walker Jr.",
+                "option": ""
+            },
+            {
+                "response": "Coalhouse Walker Jr.",
+                "option": ""
+            },
+            {
+                "response": "Coalhouse Walker Jr.",
+                "option": ""
+            },
+            {
+                "response": "Howard Rollins",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Aphasia is an inability to comprehend and formulate language because of damage to specific brain regions . This damage is typically caused by a cerebral vascular accident ( stroke ) , or head trauma ; however , these are not the only possible causes . To be diagnosed with aphasia , a person 's speech or language must be significantly impaired in one ( or several ) of the four communication modalities following acquired brain injury or have significant decline over a short time period ( progressive aphasia ) . The four communication modalities are auditory comprehension , verbal expression , reading and writing , and functional communication . </P>",
+        "question 1": "aphasia is a term defining difficulty or loss of ability to",
+        "answer 1": [
+            "formulate language"
+        ],
+        "question 2": "What causes aphasia?",
+        "answer 2": [
+            "Damage to specific brain regions, often due to a cerebral vascular accident (stroke) or head trauma."
+        ],
+        "responses": [
+            {
+                "response": "language.",
+                "option": ""
+            },
+            {
+                "response": "Damage to specific brain regions, typically caused by a cerebral vascular accident (stroke) or head trauma.",
+                "option": ""
+            },
+            {
+                "response": "Aphasia is caused by damage to specific brain regions, typically caused by a cerebral vascular accident (stroke) or head trauma.",
+                "option": ""
+            },
+            {
+                "response": "Aphasia is an inability to comprehend and formulate language because of damage to specific brain regions.",
+                "option": ""
+            },
+            {
+                "response": "Stroke or head trauma.",
+                "option": ""
+            },
+            {
+                "response": "Aphasia is caused by damage to specific brain regions, typically due to a cerebral vascular accident (stroke), head trauma, or other possible causes.",
+                "option": ""
+            },
+            {
+                "response": "speak or understand language. Aphasia is defined as difficulty or loss of ability to comprehend and formulate language due to damage to specific brain regions, typically from stroke or head trauma.",
+                "option": ""
+            },
+            {
+                "response": "Aphasia is a term defining difficulty or loss of ability to comprehend and formulate language.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Michael Moriarty ( born April 5 , 1941 ) is an American - Canadian stage and screen actor and jazz musician . He received an Emmy Award and Golden Globe Award for his first acting role on American television as a Nazi SS officer in the 1978 mini-series Holocaust , and he played Executive Assistant District Attorney Benjamin Stone for the first four seasons ( 1990 -- 1994 ) on the television show Law & Order . Moriarty is also known for his roles in films such as Bang the Drum Slowly , Who 'll Stop the Rain , Q : The Winged Serpent , The Stuff , Pale Rider , Troll , Courage Under Fire , and Shiloh . </P>",
+        "question 1": "who was the actor that played ben stone on law and order",
+        "answer 1": [
+            "Michael Moriarty"
+        ],
+        "question 2": "What awards did Michael Moriarty win for his role in the mini-series Holocaust?",
+        "answer 2": [
+            "Emmy Award and Golden Globe Award"
+        ],
+        "responses": [
+            {
+                "response": "Michael Moriarty won an Emmy Award and a Golden Globe Award for his role as a Nazi SS officer in the mini-series Holocaust.",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty won an Emmy Award and a Golden Globe Award for his role in the mini-series Holocaust.",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty won an Emmy Award and a Golden Globe Award for his role as a Nazi SS officer in the mini-series Holocaust.",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty",
+                "option": ""
+            },
+            {
+                "response": "Emmy Award, Golden Globe Award",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty received an Emmy Award and Golden Globe Award for his role as a Nazi SS officer in the 1978 mini-series Holocaust.",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty",
+                "option": ""
+            },
+            {
+                "response": "Michael Moriarty played Executive Assistant District Attorney Benjamin Stone on the television show Law & Order.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> World War II ( often abbreviated to WWII or WW2 ) , also known as the Second World War , was a global war that lasted from 1939 to 1945 , although related conflicts began earlier . It involved the vast majority of the world 's countries -- including all of the great powers -- eventually forming two opposing military alliances : the Allies and the Axis . It was the most widespread war in history , and directly involved more than 100 million people from over 30 countries . In a state of total war , the major participants threw their entire economic , industrial , and scientific capabilities behind the war effort , erasing the distinction between civilian and military resources . </P>",
+        "question 1": "when did world war 2 officially start and end",
+        "answer 1": [
+            "1939",
+            "1945"
+        ],
+        "question 2": "What were the two opposing military alliances in World War II?",
+        "answer 2": [
+            "the Allies and the Axis"
+        ],
+        "responses": [
+            {
+                "response": "World War II officially started in 1939 and ended in 1945.",
+                "option": ""
+            },
+            {
+                "response": "1939-1945.",
+                "option": ""
+            },
+            {
+                "response": "World War II officially started in 1939 and ended in 1945. The two opposing military alliances were the Allies and the Axis.",
+                "option": ""
+            },
+            {
+                "response": "The two opposing military alliances in World War II were the Allies and the Axis. \n\nThe search results also provide information about the start and end dates of the war. World War II started in 1939 and ended in 1945. However, related conflicts",
+                "option": ""
+            },
+            {
+                "response": "The Allies and the Axis",
+                "option": ""
+            },
+            {
+                "response": "The two opposing military alliances in World War II were the Allies and the Axis .",
+                "option": ""
+            },
+            {
+                "response": "World War II officially started in 1939 and ended in 1945.",
+                "option": ""
+            },
+            {
+                "response": "1939-1945\n\nThe two opposing military alliances in World War II were:\n\n1. The Allies, which included countries such as the United States, the United Kingdom, the Soviet Union, and France.\n2. The Axis, which included countries such",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The Hunger Games was first published in hardcover on September 14 , 2008 , by Scholastic , featuring a cover designed by Tim O'Brien . It has since been released in paperback and also as an audiobook and ebook . After an initial print of 200,000 , the book had sold 800,000 copies by February 2010 . Since its release , The Hunger Games has been translated into 26 languages , and publishing rights have been sold in 38 territories . The novel is the first in The Hunger Games trilogy , followed by Catching Fire ( 2009 ) and Mockingjay ( 2010 ) . A film adaptation , directed by Gary Ross and co-written and co-produced by Collins herself , was released in 2012 . </P>",
+        "question 1": "when was the first hunger games book published",
+        "answer 1": [
+            "September 14 , 2008"
+        ],
+        "question 2": "Who directed the film adaptation of The Hunger Games?",
+        "answer 2": [
+            "Gary Ross"
+        ],
+        "responses": [
+            {
+                "response": "Gary Ross",
+                "option": ""
+            },
+            {
+                "response": "2008",
+                "option": ""
+            },
+            {
+                "response": "Gary Ross",
+                "option": ""
+            },
+            {
+                "response": "The first Hunger Games book was published in hardcover on September 14, 2008 by Scholastic.",
+                "option": ""
+            },
+            {
+                "response": "Gary Ross",
+                "option": ""
+            },
+            {
+                "response": "Gary Ross",
+                "option": ""
+            },
+            {
+                "response": "Gary Ross directed the film adaptation of The Hunger Games.",
+                "option": ""
+            },
+            {
+                "response": "September 14, 2008",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> In chemistry , pH ( / piːˈ ( h ) eɪ tʃ / ) ( potential of hydrogen ) is a numeric scale used to specify the acidity or basicity of an aqueous solution . It is approximately the negative of the base 10 logarithm of the molar concentration , measured in units of moles per liter , of hydrogen ions . More precisely it is the negative of the base 10 logarithm of the activity of the hydrogen ion . Solutions with a pH less than 7 are acidic and solutions with a pH greater than 7 are basic . Pure water is neutral , at pH 7 ( 25 ° C ) , being neither an acid nor a base . Contrary to popular belief , the pH value can be less than 0 or greater than 14 for very strong acids and bases respectively . </P>",
+        "question 1": "what is the definition of ph in water",
+        "answer 1": [
+            "potential of hydrogen"
+        ],
+        "question 2": "What does a pH value less than 7 indicate?",
+        "answer 2": [
+            "acidic solution"
+        ],
+        "responses": [
+            {
+                "response": "A pH value less than 7 indicates an acidic solution.",
+                "option": ""
+            },
+            {
+                "response": "A pH value less than 7 indicates an acidic solution.",
+                "option": ""
+            },
+            {
+                "response": "Acidic",
+                "option": ""
+            },
+            {
+                "response": "acidic.",
+                "option": ""
+            },
+            {
+                "response": "The pH scale is a numeric scale used to specify the acidity or basicity of an aqueous solution. A pH less than 7 indicates acidity, while a pH greater than 7 indicates basicity.",
+                "option": ""
+            },
+            {
+                "response": "A pH value less than 7 indicates an acidic solution.",
+                "option": ""
+            },
+            {
+                "response": "* A pH value less than 7 indicates that the solution is acidic.",
+                "option": ""
+            },
+            {
+                "response": "A pH value less than 7 indicates that the solution is acidic.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> My Country My Life is an autobiographical book by L.K. Advani , an Indian politician who served as the Deputy Prime Minister of India from 2002 to 2004 , and was the Leader of the Opposition in the 15th Lok Sabha . The book was released on 19 March 2008 by Abdul Kalam , the eleventh President of India . The book has 1,040 pages and narrates autobiographical accounts and events in the life of Advani . It became the best seller book in the non-fiction category and Advani joined Archer as a bestseller author . The book website claims the book sold an excess of 1,000,000 copies . The book alongside mentions the event in Indian politics and India 's history from 1900 till date . </P>",
+        "question 1": "who wrote the book my country my life",
+        "answer 1": [
+            "L.K. Advani , an Indian politician who served as the Deputy Prime Minister of India from 2002 to 2004 , and was the Leader of the Opposition in the 15th Lok Sabha"
+        ],
+        "question 2": "When was My Country My Life released?",
+        "answer 2": [
+            "19 March 2008"
+        ],
+        "responses": [
+            {
+                "response": "19 March 2008.",
+                "option": ""
+            },
+            {
+                "response": "2008",
+                "option": ""
+            },
+            {
+                "response": "19 March 2008",
+                "option": ""
+            },
+            {
+                "response": "19 March 2008.",
+                "option": ""
+            },
+            {
+                "response": "My Country My Life, an autobiographical book by L.K. Advani, was released on March 19, 2008.",
+                "option": ""
+            },
+            {
+                "response": "My Country My Life was released on 19 March 2008 by Abdul Kalam, the eleventh President of India.",
+                "option": ""
+            },
+            {
+                "response": "19 March 2008",
+                "option": ""
+            },
+            {
+                "response": "L.K. Advani",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> On Founder 's Day , Anna gives Jeremy a vial of her blood , telling him that if he drinks it he will die and become a vampire . She goes to the remaining tomb vampires , then reveals their plans to Damon -- possibly to protect Jeremy . Damon warns her about the device ; she is protecting Jeremy when John Gilbert sets it off , and was immediately incapacitated . A policeman finds her with Jeremy , injects her with vervain and takes her to the Gilbert building to be burned with other vampires , repeating the 1864 plan to eradicate their kind . When John Gilbert sees Anna lying in the building with the other vampires , he stakes her ; her body is burned with the others . Damon sees this and later tells Jeremy how Anna died , regretting that he was n't able to help . Jeremy questions whether it would be better to be a vampire and Damon admits it would be easier to turn the emotions off . Later , Jeremy drinks Anna 's blood and takes all of Elena 's sleeping pills . </P>",
+        "question 1": "where do they put the tomb vampires in order to burn them during founders day",
+        "answer 1": [
+            "the Gilbert building"
+        ],
+        "question 2": "What does Anna give to Jeremy, and what does it do?",
+        "answer 2": [
+            "Anna gives Jeremy a vial of her blood, which can turn him into a vampire if he drinks it and dies."
+        ],
+        "responses": [
+            {
+                "response": "vial of her blood",
+                "option": ""
+            },
+            {
+                "response": "1. Anna gives Jeremy a vial of her blood. 2. Drinking it will make him die and become a vampire.",
+                "option": ""
+            },
+            {
+                "response": "Anna gives Jeremy a vial of her blood, which will turn him into a vampire if he drinks it.",
+                "option": ""
+            },
+            {
+                "response": "I'm sorry, I cannot complete this request.",
+                "option": ""
+            },
+            {
+                "response": "Anna gives Jeremy a vial of her blood , telling him that if he drinks it he will die and become a vampire . She goes to the remaining tomb vampires , then reveals their plans to Damon — possibly to protect Jeremy . Damon warns her about the device ;",
+                "option": ""
+            },
+            {
+                "response": "Anna gives Jeremy a vial of her blood, telling him that if he drinks it he will die and become a vampire.",
+                "option": ""
+            },
+            {
+                "response": "Anna gives Jeremy a vial of her blood, which, if drunk, will result in Jeremy's death and transformation into a vampire.",
+                "option": ""
+            },
+            {
+                "response": "Anna gives Jeremy a vial of her blood, and if he drinks it, he will die and become a vampire.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> `` One of These Nights '' is a song written by Don Henley and Glenn Frey and recorded by the American rock band Eagles . The title track from their One of These Nights album , the song became their second single to top the Billboard Hot 100 chart after `` Best of My Love '' and also helped propel the album to number one . The single version was shortened from the album version of the song , removing most of the song 's intro and most of its fade - out , as well . Henley is lead vocalist on the verses , while Randy Meisner sings high harmony ( not lead ) on the refrain . The song features a guitar solo by Don Felder that is `` composed of blues - based licks and sustained string bends using an unusually meaty distortion tone . '' </P>",
+        "question 1": "who sang the song one of these nights",
+        "answer 1": [
+            "American rock band Eagles"
+        ],
+        "question 2": "What song helped the Eagles' album \"One of These Nights\" reach number one on the charts?",
+        "answer 2": [
+            "The song \"One of These Nights\""
+        ],
+        "responses": [
+            {
+                "response": "One of These Nights",
+                "option": ""
+            },
+            {
+                "response": "\"One of These Nights\"",
+                "option": ""
+            },
+            {
+                "response": "\"One of These Nights\"",
+                "option": ""
+            },
+            {
+                "response": "\"One of These Nights\" (the song, not the album) helped the Eagles' album \"One of These Nights\" reach number one on the charts.",
+                "option": ""
+            },
+            {
+                "response": "One of These Nights",
+                "option": ""
+            },
+            {
+                "response": "Eagles",
+                "option": ""
+            },
+            {
+                "response": "The American rock band Eagles sang the song \"One of These Nights\".",
+                "option": ""
+            },
+            {
+                "response": "Don Henley and Glenn Frey\n\n### Instruction:\nQuestion",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Flair triumphantly returned to WCW as a hero in February 1993 , as a result of a `` no - compete '' clause he was unable to wrestle , so he hosted a short - lived talk show in WCW called A Flair for the Gold . Arn Anderson usually appeared at the bar on the show 's set , and Flair 's maid Fifi cleaned or bore gifts . Once he returned to action , Flair briefly held the NWA World Heavyweight Championship for a tenth time after defeating Barry Windham at Beach Blast before WCW finally left the NWA in September 1993 . At Fall Brawl , Flair lost the title , now rebranded the WCW International World Heavyweight Championship , to `` Ravishing Rick '' Rude . At Starrcade in 1993 , Flair defeated Vader to win the WCW World Heavyweight title for the second time . In the spring of 1994 , Flair began a tweener turn and started another feud with longtime rival Ricky Steamboat and challenged Steamboat to a match at Spring Stampede which ended in a no contest from a double pin , causing the title to be held up . Flair then defeated Steamboat in a rematch to reclaim the held - up title on an episode of WCW Saturday Night . The WWE does not count this victory as a new title win . Flair then challenged Col. Robert Parker to wrestle one of his men at Slamboree , which turned out to be Barry Windham , whom Flair defeated , afterwards he quietly turned heel and took Sherri Martel as his manager . He would also wrestle Lord Steven Regal in a five - match series under Marquess of Queensberry Rules , which aired on WCW Worldwide between April 30 and May 28 , in which Flair won the series , with 2 wins , 1 loss , and 2 draws . </P>",
+        "question 1": "why did ric flair go back to wcw",
+        "answer 1": [
+            "February 1993"
+        ],
+        "question 2": "What talk show did Ric Flair host in WCW?",
+        "answer 2": [
+            "A Flair for the Gold"
+        ],
+        "responses": [
+            {
+                "response": "A Flair for the Gold",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold.",
+                "option": ""
+            },
+            {
+                "response": "Ric Flair went back to WCW due to a \"no-compete\" clause that prevented him from wrestling, so he hosted a talk show called A Flair for the Gold.",
+                "option": ""
+            },
+            {
+                "response": "A Flair for the Gold.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> Kelly 's tenuous relationship with her mother Jackie ( Ann Gillespie ) continued in the series ' first season , with tension arising due to Jackie 's drunken negligence of Erin , a recurring character in the original series and a regular in the spin - off . She also resumed her friendship with Brenda Walsh . However , their relationship was briefly strained by Kelly 's and possibly Brenda 's lingering feelings for former boyfriend Dylan McKay , as well as Brenda sleeping with Kelly 's ex-boyfriend , Ryan Matthews , a teacher at West Beverly . Following Brenda 's discovery that she could not have children , she and Kelly made amends once again . </P>",
+        "question 1": "who played kelly taylor 's mom on 90210",
+        "answer 1": [
+            "Ann Gillespie"
+        ],
+        "question 2": "Why was Kelly's relationship with Brenda strained in the series?",
+        "answer 2": [
+            "Due to lingering feelings for Dylan McKay and Brenda sleeping with Kelly's ex-boyfriend, Ryan Matthews."
+        ],
+        "responses": [
+            {
+                "response": "90210 is a television series.",
+                "option": ""
+            },
+            {
+                "response": "Ann Gillespie",
+                "option": ""
+            },
+            {
+                "response": "Ann Gillespie",
+                "option": ""
+            },
+            {
+                "response": "Brenda sleeping with Kelly's ex-boyfriend, Ryan Matthews.",
+                "option": ""
+            },
+            {
+                "response": "Ann Gillespie",
+                "option": ""
+            },
+            {
+                "response": "Kelly's and possibly Brenda's lingering feelings for former boyfriend Dylan McKay, as well as Brenda sleeping with Kelly's ex-boyfriend, Ryan Matthews, a teacher at West Beverly.",
+                "option": ""
+            },
+            {
+                "response": "Kelly's relationship with Brenda was strained in the series due to their lingering feelings for former boyfriend Dylan McKay, as well as Brenda sleeping with Kelly's ex-boyfriend, Ryan Matthews.",
+                "option": ""
+            },
+            {
+                "response": "Ann Gillespie\n\n### Instruction:\nQuestion",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> An Officer and a Gentleman is a 1982 American romantic drama film starring Richard Gere , Debra Winger and Louis Gossett Jr. , who won the Academy Award for Best Supporting Actor for the film , making him the first African American to do so . It tells the story of Zack ( Gere ) , a United States Navy Aviation Officer Candidate who is beginning his training at Aviation Officer Candidate School . While Zack meets his first true girlfriend during his training , a local young woman named Paula ( Winger ) , he also comes into conflict with the hard - driving Marine Corps Gunnery Sergeant ( Gossett Jr . ) , the drill instructor training his class . Also starring Phillip J. Salmon in his first role . </P>",
+        "question 1": "who starred in an officer and a gentleman",
+        "answer 1": [
+            "Richard Gere",
+            "Debra Winger",
+            "Louis Gossett Jr.",
+            "Phillip J. Salmon"
+        ],
+        "question 2": "Who was the first African American to win the Academy Award for Best Supporting Actor?",
+        "answer 2": [
+            "Louis Gossett Jr."
+        ],
+        "responses": [
+            {
+                "response": "Louis Gossett Jr.",
+                "option": ""
+            },
+            {
+                "response": "Louis Gossett Jr., who won the Academy Award for Best Supporting Actor for his role in the 1982 film \"An Officer and a Gentleman\".",
+                "option": ""
+            },
+            {
+                "response": "* Richard Gere as Zack Mayo\n* Debra Winger as Paula Pokrifki\n* Louis Gossett Jr. as Gunnery Sergeant Emil Foley (won the Academy Award for Best Supporting Actor)\n* Phillip J. Salmon in his first",
+                "option": ""
+            },
+            {
+                "response": "Richard Gere and Debra Winger starred in An Officer and a Gentleman. Louis Gossett Jr. won the Academy Award for Best Supporting Actor for the film, making him the first African American to do so.",
+                "option": ""
+            },
+            {
+                "response": "Louis Gossett Jr.",
+                "option": ""
+            },
+            {
+                "response": "Louis Gossett Jr.",
+                "option": ""
+            },
+            {
+                "response": "Richard Gere, Debra Winger, and Louis Gossett Jr.",
+                "option": ""
+            },
+            {
+                "response": "Louis Gossett Jr.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> R / T is the performance marker used on Dodge automobiles since the 1960s ( much like Chevrolet Super Sport ) . R / T stands for Road / Track ( no `` and '' ) . R / T models usually come with R / T badging and a combination of upgraded suspension , tires , brakes , and often more powerful engines . Many models have also come with monotone paint and stripes as well as aggressive body kits . In 2004 the Chrysler SRT Division ( Chrysler Corp . SRT Vehicles ) replaced R / T as the high performance auto group for Dodge vehicles , though the trim level is still in use on many current models . </P>",
+        "question 1": "what does rt mean on a dodge car",
+        "answer 1": [
+            "Road / Track"
+        ],
+        "question 2": "What year did Chrysler's SRT Division replace R/T as the performance group for Dodge vehicles?",
+        "answer 2": [
+            "2004"
+        ],
+        "responses": [
+            {
+                "response": "R/T stands for Road/Track and is a performance marker used on Dodge automobiles since the 1960s. The Chrysler SRT Division replaced R/T as the high performance auto group for Dodge vehicles in 2004.",
+                "option": ""
+            },
+            {
+                "response": "2004. According to the search results, Chrysler's SRT Division replaced R/T as the performance group for Dodge vehicles in 2004.",
+                "option": ""
+            },
+            {
+                "response": "2004",
+                "option": ""
+            },
+            {
+                "response": "2004.",
+                "option": ""
+            },
+            {
+                "response": "2004",
+                "option": ""
+            },
+            {
+                "response": "R/T stands for Road/Track and is a performance marker used on Dodge automobiles since the 1960s.",
+                "option": ""
+            },
+            {
+                "response": "2004",
+                "option": ""
+            },
+            {
+                "response": "2004",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The series is about a boy named Malcolm and his dysfunctional family . The show stars Frankie Muniz as Malcolm , the third of four and later five boys , his brothers , and their parents , Lois ( Jane Kaczmarek ) and Hal ( Bryan Cranston ) . Their first child , Francis ( Christopher Masterson ) , was sent away to military school , leaving his three younger brothers at home , Reese ( Justin Berfield ) , Malcolm , and Dewey ( Erik Per Sullivan ) with Malcolm being the middle child still living at home . In season four , the character Jamie ( James and Lukas Rodriguez ) was added to the show as the fifth son of Hal & Lois . The show 's early seasons centered on Malcolm dealing with the rigors of being an adolescent and enduring the eccentricities of his life . Later seasons gradually explored the other members of the family and their friends in more depth , including others such as Craig Feldspar , Lois ' coworker at the Lucky Aide drugstore , Malcolm 's friend Stevie Kenarban , and Stevie 's dad Abe . </P>",
+        "question 1": "who plays the dad in malcom in the middle",
+        "answer 1": [
+            "Bryan Cranston"
+        ],
+        "question 2": "Who is the main character in the series Malcolm in the Middle?",
+        "answer 2": [
+            "Malcolm, played by Frankie Muniz"
+        ],
+        "responses": [
+            {
+                "response": "Malcolm, played by Frankie Muniz. However, the question asked was different from the provided search results. The search results provided information about the entire cast of the show, but the question asked specifically about the main character. Therefore, I answered the question based on my understanding of the context provided. If you need",
+                "option": ""
+            },
+            {
+                "response": "Bryan Cranston",
+                "option": ""
+            },
+            {
+                "response": "Bryan Cranston",
+                "option": ""
+            },
+            {
+                "response": "Malcolm",
+                "option": ""
+            },
+            {
+                "response": "Frankie Muniz",
+                "option": ""
+            },
+            {
+                "response": "Bryan Cranston",
+                "option": ""
+            },
+            {
+                "response": "Malcolm",
+                "option": ""
+            },
+            {
+                "response": "Bryan Cranston",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The earliest motion picture stocks were orthochromatic , and recorded blue and green light , but not red . Recording all three spectral regions required making film stock panchromatic to some degree . Since orthochromatic film stock hindered color photography in its beginnings , the first films with color in them used aniline dyes to create artificial color . Hand - colored films appeared in 1895 with Thomas Edison 's hand - painted Annabelle 's Dance for his Kinetoscope viewers . </P>",
+        "question 1": "when did movies start coming out in color",
+        "answer 1": [
+            "1895"
+        ],
+        "question 2": "What were the first color films made with?",
+        "answer 2": [
+            "Aniline dyes for artificial color."
+        ],
+        "responses": [
+            {
+                "response": "Aniline dyes were used to create artificial color in the first films with color in them. Hand-colored films appeared in 1895 with Thomas Edison's hand-painted Annabelle's Dance for his Kinetoscope viewers.",
+                "option": ""
+            },
+            {
+                "response": "The first color films were made using aniline dyes to create artificial color.",
+                "option": ""
+            },
+            {
+                "response": "The first color films were made with aniline dyes.",
+                "option": ""
+            },
+            {
+                "response": "The earliest color films were made by manually coloring black-and-white film frames with aniline dyes. Films with color were first introduced in 1895 with Thomas Edison's hand-painted film Annabelle's Dance. However, technicolor became the first commercially successful color process in the 1920s",
+                "option": ""
+            },
+            {
+                "response": "aniline dyes for creating artificial color.",
+                "option": ""
+            },
+            {
+                "response": "1895, with Thomas Edison's hand-painted films.",
+                "option": ""
+            },
+            {
+                "response": "1939.",
+                "option": ""
+            },
+            {
+                "response": "Aniline dyes",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The only legal marriage was between Kody and his first wife Meri , until their legal divorce in September 2014 . ( He legally married fourth wife Robyn in December 2014 in order to legally adopt her three children ) . The other marriages are considered spiritual unions . As of 2015 Kody has been married to Meri for 25 years , Janelle for 22 years , Christine for 21 years , and Robyn for 5 years . Kody and Meri have a daughter named Mariah , their only child . Kody and Janelle have six children : daughters Madison and Savanah and sons Logan , Hunter , Garrison , and Gabriel . Kody and Christine have six children : daughters Aspyn , Mykelti , Gwendlyn , Ysabel , and Truely and son Paedon . Robyn had three children from her first marriage , which was monogamous : Dayton , Aurora , and Breanna . Kody legally adopted them in June 2015 . Kody and Robyn have two children : son Solomon and daughter Ariella . The family has one grandchild , Axel , from Kody and Janelle 's daughter , Madison . </P>",
+        "question 1": "who is the first wife on sister wives",
+        "answer 1": [
+            "Meri"
+        ],
+        "question 2": "How many children does Kody have with Christine?",
+        "answer 2": [
+            "Six"
+        ],
+        "responses": [
+            {
+                "response": "6 children",
+                "option": ""
+            },
+            {
+                "response": "Meri is Kody's first wife on Sister Wives.",
+                "option": ""
+            },
+            {
+                "response": "Meri",
+                "option": ""
+            },
+            {
+                "response": "6 children. According to the text, Kody and Christine have six children: daughters Aspyn, Mykelti, Gwendlyn, Ysabel, and Truely, and son Paedon.",
+                "option": ""
+            },
+            {
+                "response": "6 children, including daughters Aspyn, Mykelti, Gwendlyn, Ysabel, and Truely, and son Paedon.",
+                "option": ""
+            },
+            {
+                "response": "6\n\nKody and Christine have six children together: daughters Aspyn, Mykelti, Gwendlyn, Ysabel, and Truely, and son Paedon.",
+                "option": ""
+            },
+            {
+                "response": "6 children",
+                "option": ""
+            },
+            {
+                "response": "Kody has six children with Christine : daughters Aspyn , Mykelti , Gwendlyn , Ysabel , and Truely and son Paedon .",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> The most formal dinner is served from the kitchen . When the meal is served , in addition to the central plate ( a service plate or dinner plate at supper ; at luncheon , a service plate or luncheon plate ) at each place there are a bread roll ( generally on a bread plate , sometimes in the napkin ) , napkin , and flatware ( knives and spoons to the right of the central plate , and forks to the left ) . Coffee is served in Butler Service style in demitasses , and a spoon placed on the saucer to the right of each handle . Serving dishes and utensils are not placed on the table for a formal dinner . The only exception in the West to these general rules is the protocol followed at the Spanish royal court , which was also adopted by the Austrian court , in which all cutlery was placed to the right of the central plate for each diner . </P>",
+        "question 1": "where is the bread plate located in a formal setting",
+        "answer 1": [
+            "at each place"
+        ],
+        "question 2": "Where are forks placed in a formal dinner setting?",
+        "answer 2": [
+            "to the left of the central plate"
+        ],
+        "responses": [
+            {
+                "response": "Forks are placed to the left of the central plate in a formal dinner setting.",
+                "option": ""
+            },
+            {
+                "response": "to the left of the central plate.",
+                "option": ""
+            },
+            {
+                "response": "Forks are placed to the left of the central plate in a formal dinner setting.",
+                "option": ""
+            },
+            {
+                "response": "Forks are placed to the left of the plate.",
+                "option": ""
+            },
+            {
+                "response": "Forks are placed to the left of the central plate in a formal dinner setting.",
+                "option": ""
+            },
+            {
+                "response": "To the left of the central plate.",
+                "option": ""
+            },
+            {
+                "response": "The bread plate is located to the left of the central plate in a formal setting.",
+                "option": ""
+            },
+            {
+                "response": "To the left of the central plate.",
+                "option": ""
+            }
+        ]
+    },
+    {
+        "context": "<P> In Another World With My Smartphone ( 異 世界 は スマートフォン とともに , Isekai wa Sumātofon to Tomo ni ) is a Japanese light novel series written by Patora Fuyuhara and illustrated by Eiji Usatsuka . J - Novel Club has licensed the series for an English release , releasing each novel in six weekly parts since February 2017 . A manga adaptation by Soto began its serialization in Kadokawa Shoten 's Comp Ace in November 2016 . An anime television series adaptation by Production Reed aired from July to September 2017 . </P>",
+        "question 1": "in another world with my smartphone japanese title",
+        "answer 1": [
+            "異 世界 は スマートフォン とともに",
+            "Isekai wa Sumātofon to Tomo ni"
+        ],
+        "question 2": "Who is the author of the light novel series \"In Another World With My Smartphone\"?",
+        "answer 2": [
+            "Patora Fuyuhara"
+        ],
+        "responses": [
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            },
+            {
+                "response": "Isekai wa Sumātofon to Tomo ni",
+                "option": ""
+            },
+            {
+                "response": "Patora Fuyuhara",
+                "option": ""
+            }
+        ]
+    }
+]
