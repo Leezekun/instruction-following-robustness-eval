@@ -1,6 +1,3 @@
-export OPENAI_API_KEY='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'
-export ANTHROPIC_API_KEY='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'
-export TRANSFORMERS_CACHE='/mnt/raid0/zekun/.cache/huggingface/transformers'
 
 cd ..
 
@@ -19,9 +16,9 @@ do
                 do
                     for task_type in relevant
                     do
-                        for test_mode in injected # original relevant
+                        for test_mode in injected original relevant
                         do
-                            for dataset in TriviaQA # HotpotQA # SQuAD # NaturalQuestions  
+                            for dataset in TriviaQA HotpotQA SQuAD NaturalQuestions  
                             do
                                 for defense in True
                                 do
