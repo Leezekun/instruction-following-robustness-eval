@@ -4,8 +4,8 @@
 ![Illustration of our instruction-following robustness evaluation](./pics/illustration.png)
 
 The objective of our benchmark is to 
-1. quantify the extent to which instruction-following LLMs are influenced by injected adversarial instructions;
-2. assess their ability to differentiate between these injected adversarial instructions and original user instructions.
+1. quantify the extent to which instruction-following LLMs are influenced by injected instructions;
+2. assess their ability to differentiate between these injected instructions and original target instructions.
    
 As shown in the illustration above, we focus on the real-world scenario that current commercial conversational agents (e.g., Bing chat) face, where LLMs are tasked to answer user questions based on the web search results/retrieved knowledge. In this scenario, the web search results can potentially be pre-injected with adversarial instructions by third-party attackers in the websites.
 
@@ -19,13 +19,13 @@ To avoid being guardrailed by LLM vendors and exclude the influence of malicious
 ### Injection (Evaluation data preparation)
 Insert the adversarial instructions into the question-answering evaluation samples. Adjust the injection using the following parameters:
 
+- template: QCA for positioning question above search results (context), or CQA for the reverse order.
 - position: Where to embed the adversarial instruction in the context (web search results).
-- attack_type: Choose between direct (no prefix) or ignore (prepend with "ignore previous prompt").
+- defense: whether to add defense mechanism: data isolation and instructional prevention.
+- attack_type: Choose between direct (no prefix) or previous (ignore previous prompt prefix, for QCA) or answer_order (answer the questions in order, for CQA).
 - task_type: Type of instruction to inject – relevant for context-appropriate questions or irrelevant for random directives via self-instruct.
-- qg_model: Model used for generating the relevant adversarial questions.
-- test_mode: Set evaluation mode: original (original query only), injected (injected query only), or original+injected (both).
-- dataset: Use either NaturalQuestions or TriviaQA.
-
+- test_mode: Set evaluation mode: original (original target question only), relevant (injected relevant question only), or injected (both).
+- dataset: Use either NaturalQuestions, TriviaQA, SQuAD, and HotpotQA
 
 ### Evaluation
 Once the data is prepared, proceed with evaluating your LLM.

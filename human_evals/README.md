@@ -43,8 +43,3 @@ Option: D
 
 Response: Each state is equally represented by two senators, regardless of its population.  
 Option: E
-
-### Annotation Instructions:
-There are 3 groups of files, each with 20 examples. Each example includes 8 responses that require annotation.
-
-Run the python `annotate.py` script, input your choices (upper and lower cases are both okay), and press ENTER to proceed. You can exit the script at any time. Annotations will be saved after each input.

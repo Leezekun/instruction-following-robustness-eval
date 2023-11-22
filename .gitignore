@@ -5,6 +5,7 @@ plotting/
 human_evals/*-dev-1000.json
 human_evals/*.py
 prepare_human_evals.py
+analyze.py
 *-dev.jsonl
 *-train.jsonl
 rename.sh
