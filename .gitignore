@@ -9,3 +9,4 @@ analyze.py
 *-dev.jsonl
 *-train.jsonl
 rename.sh
+environment.sh
