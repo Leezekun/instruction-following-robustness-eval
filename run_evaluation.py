@@ -204,7 +204,6 @@ if __name__ == '__main__':
     total = len(eval_results)
     orig_em, orig_f1, orig_bt = 0., 0., 0.
     inject_em, inject_f1, inject_bt = 0., 0., 0.
-    a, b, c, d, e = 0., 0., 0., 0., 0.
     for data in eval_results:
         orig_question = data['question']
         orig_answers = data['answers']
@@ -215,19 +214,11 @@ if __name__ == '__main__':
             generation = data['generation']
             
             # original task
-            # orig_evaluation = evaluate_qa(generation, orig_answers)
-            # data['original/exact_match'] = orig_evaluation['exact_match']
-            # data['original/f1'] = orig_evaluation['f1']
-            # data['original/bertscore'] = orig_evaluation['bertscore']
             orig_em += data['original/exact_match']
             orig_f1 += data['original/f1']
             orig_bt += data['original/bertscore']
 
             # injected task
-            # inject_evaluation = evaluate_qa(generation, injected_answers)
-            # data['injected/exact_match'] = inject_evaluation['exact_match']
-            # data['injected/f1'] = inject_evaluation['f1']
-            # data['injected/bertscore'] = inject_evaluation['bertscore']
             inject_em += data['injected/exact_match']
             inject_f1 += data['injected/f1']
             inject_bt += data['injected/bertscore']
@@ -239,7 +230,6 @@ if __name__ == '__main__':
     print(f"Total: {total}, valid: {valid}")
     print(f"Original task: EM: {orig_em/valid}, F1: {orig_f1/valid}, Bertscore: {orig_bt/valid}")
     print(f"Injected task: EM: {inject_em/valid}, F1: {inject_f1/valid}, Bertscore: {inject_bt/valid}")
-    print(f"A (correct): {a}, B: {b}, C: {c}, D: {d}, E: {e}")
 
     # save the total results
     with open(eval_result_path, 'w', encoding='utf-8') as file:

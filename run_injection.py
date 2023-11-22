@@ -131,16 +131,22 @@ if __name__ == '__main__':
             
             # construct test samples
             if args.position == "start":
-                context_sentences = context.split("<P>")
-                context_sentences.insert(1, injection)
-                context_sentences.insert(1, "<P>")
+                if context.startswith("<P>"):
+                    context_sentences = context.split("<P>")
+                    context_sentences.insert(1, injection)
+                    context_sentences.insert(1, "<P>")
+                else:
+                    context_sentences = [injection, context]
+            elif args.position == "end":
+                if context.endswith("</P>"):
+                    context_sentences = context.split("</P>")
+                    context_sentences.append(injection)
+                    context_sentences.append("</P>")
+                else:
+                    context_sentences = [context, injection]
             elif args.position == "middle":
                 context_sentences = [str(s) for s in nlp(context).sents]
                 context_sentences.insert(int(len(context_sentences)/2), injection)
-            elif args.position == "end":
-                context_sentences = context.split("</P>")
-                context_sentences.append(injection)
-                context_sentences.append("</P>")
             elif args.position == "random":
                 context_sentences = [str(s) for s in nlp(context).sents]
                 context_sentences.insert(random.randint(0,len(context_sentences)-1), injection)

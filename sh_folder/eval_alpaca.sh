@@ -63,9 +63,9 @@ do
                 do
                     for task_type in relevant
                     do
-                        for test_mode in injected original relevant
+                        for test_mode in injected # original relevant
                         do
-                            for dataset in NaturalQuestions TriviaQA SQuAD HotpotQA
+                            for dataset in TriviaQA # HotpotQA # SQuAD #  # NaturalQuestions # 
                             do
                                 for defense in True
                                 do
@@ -103,7 +103,7 @@ done
 #         do
 #             for position in end
 #                 do
-#                 for attack_type in direct ignore_previous
+#                 for attack_type in ignore_previous # direct # 
 #                 do
 #                     for task_type in relevant
 #                     do
@@ -138,7 +138,7 @@ done
 #     done
 # done
 
-# # run 5: CQA: attack and defense on natural questions
+# run 5: CQA: attack and defense on natural questions
 # for model in alpaca-7b
 # do
 #     for n_shot in 4
@@ -147,7 +147,7 @@ done
 #         do
 #             for position in end
 #                 do
-#                 for attack_type in direct ignore_next order_prefix
+#                 for attack_type in order_prefix # direct # ignore_next 
 #                 do
 #                     for task_type in relevant
 #                     do
@@ -182,7 +182,7 @@ done
 #     done
 # done
 
-# # run 6: task type
+# run 6: task type
 # for model in alpaca-7b
 # do
 #     for n_shot in 4

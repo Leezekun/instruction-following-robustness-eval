@@ -63,9 +63,9 @@ do
                 do
                     for task_type in relevant
                     do
-                        for test_mode in injected original relevant
+                        for test_mode in injected # original relevant
                         do
-                            for dataset in TriviaQA NaturalQuestions SQuAD HotpotQA
+                            for dataset in TriviaQA # HotpotQA #  SQuAD # NaturalQuestions 
                             do
                                 for defense in True
                                 do

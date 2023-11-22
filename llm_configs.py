@@ -123,5 +123,5 @@ llm_configs = {
     {
         "model_name": "HuggingFaceH4/zephyr-7b-beta",
         "port": 8023
-    },
+    }
 }

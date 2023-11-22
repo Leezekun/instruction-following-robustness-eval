@@ -50,24 +50,112 @@ devices=0
 #     done
 # done
 
-# run 2: main results
+# # run 2: main results
+# for model in claude-2
+# do
+#     for n_shot in 4
+#     do
+#         for template in QCA
+#         do
+#             for position in end
+#                 do
+#                 for attack_type in direct
+#                 do
+#                     for task_type in relevant
+#                     do
+#                         for test_mode in injected # original relevant
+#                         do
+#                             for dataset in TriviaQA # HotpotQA  NaturalQuestions SQuAD
+#                             do
+#                                 for defense in True
+#                                 do
+#                                     CUDA_VISIBLE_DEVICES=$devices python -m run_evaluation \
+#                                                                         --dataset $dataset \
+#                                                                         --split dev \
+#                                                                         --n_samples 1000 \
+#                                                                         --template $template \
+#                                                                         --position $position \
+#                                                                         --attack_type $attack_type \
+#                                                                         --task_type $task_type \
+#                                                                         --model $model \
+#                                                                         --n_shot $n_shot \
+#                                                                         --test_mode $test_mode \
+#                                                                         --defense $defense \
+#                                                                         --generate \
+#                                                                         # --debug \
+#                                                                         # --verbose
+#                                 done
+#                             done
+#                         done
+#                     done
+#                 done
+#             done
+#         done
+#     done
+# done
+
+# run 3: QCA: attack and defense on natural questions
+# for model in claude-2
+# do
+#     for n_shot in 4
+#     do
+#         for template in QCA
+#         do
+#             for position in end
+#                 do
+#                 for attack_type in ignore_previous # direct # 
+#                 do
+#                     for task_type in relevant
+#                     do
+#                         for test_mode in injected # original relevant
+#                         do
+#                             for dataset in NaturalQuestions # TriviaQA
+#                             do
+#                                 for defense in True False
+#                                 do
+#                                     CUDA_VISIBLE_DEVICES=$devices python -m run_evaluation \
+#                                                                         --dataset $dataset \
+#                                                                         --split dev \
+#                                                                         --n_samples 1000 \
+#                                                                         --template $template \
+#                                                                         --position $position \
+#                                                                         --attack_type $attack_type \
+#                                                                         --task_type $task_type \
+#                                                                         --model $model \
+#                                                                         --n_shot $n_shot \
+#                                                                         --test_mode $test_mode \
+#                                                                         --defense $defense \
+#                                                                         --generate \
+#                                                                         # --debug \
+#                                                                         # --verbose
+#                                 done
+#                             done
+#                         done
+#                     done
+#                 done
+#             done
+#         done
+#     done
+# done
+
+# run 5: CQA: attack and defense on natural questions
 for model in claude-2
 do
     for n_shot in 4
     do
-        for template in QCA
+        for template in CQA
         do
             for position in end
                 do
-                for attack_type in direct
+                for attack_type in direct order_prefix # ignore_next direct
                 do
                     for task_type in relevant
                     do
-                        for test_mode in injected original relevant
+                        for test_mode in injected # original relevant
                         do
-                            for dataset in HotpotQA TriviaQA  NaturalQuestions SQuAD
+                            for dataset in NaturalQuestions # TriviaQA
                             do
-                                for defense in True
+                                for defense in True False
                                 do
                                     CUDA_VISIBLE_DEVICES=$devices python -m run_evaluation \
                                                                         --dataset $dataset \
@@ -94,95 +182,7 @@ do
     done
 done
 
-# run 3: QCA: attack and defense on natural questions
-# for model in claude-2
-# do
-#     for n_shot in 4
-#     do
-#         for template in QCA
-#         do
-#             for position in end
-#                 do
-#                 for attack_type in direct ignore_previous
-#                 do
-#                     for task_type in relevant
-#                     do
-#                         for test_mode in injected # original relevant
-#                         do
-#                             for dataset in NaturalQuestions # TriviaQA
-#                             do
-#                                 for defense in True False
-#                                 do
-#                                     CUDA_VISIBLE_DEVICES=$devices python -m run_evaluation \
-#                                                                         --dataset $dataset \
-#                                                                         --split dev \
-#                                                                         --n_samples 1000 \
-#                                                                         --template $template \
-#                                                                         --position $position \
-#                                                                         --attack_type $attack_type \
-#                                                                         --task_type $task_type \
-#                                                                         --model $model \
-#                                                                         --n_shot $n_shot \
-#                                                                         --test_mode $test_mode \
-#                                                                         --defense $defense \
-#                                                                         --generate \
-#                                                                         # --debug \
-#                                                                         # --verbose
-#                                 done
-#                             done
-#                         done
-#                     done
-#                 done
-#             done
-#         done
-#     done
-# done
-
-# # run 5: CQA: attack and defense on natural questions
-# for model in claude-2
-# do
-#     for n_shot in 4
-#     do
-#         for template in CQA
-#         do
-#             for position in end
-#                 do
-#                 for attack_type in direct ignore_next order_prefix
-#                 do
-#                     for task_type in relevant
-#                     do
-#                         for test_mode in injected # original relevant
-#                         do
-#                             for dataset in NaturalQuestions # TriviaQA
-#                             do
-#                                 for defense in True False
-#                                 do
-#                                     CUDA_VISIBLE_DEVICES=$devices python -m run_evaluation \
-#                                                                         --dataset $dataset \
-#                                                                         --split dev \
-#                                                                         --n_samples 1000 \
-#                                                                         --template $template \
-#                                                                         --position $position \
-#                                                                         --attack_type $attack_type \
-#                                                                         --task_type $task_type \
-#                                                                         --model $model \
-#                                                                         --n_shot $n_shot \
-#                                                                         --test_mode $test_mode \
-#                                                                         --defense $defense \
-#                                                                         --generate \
-#                                                                         # --debug \
-#                                                                         # --verbose
-#                                 done
-#                             done
-#                         done
-#                     done
-#                 done
-#             done
-#         done
-#     done
-# done
-
-# # run 6: task type
+# run 6: task type
 # for model in claude-2
 # do
 #     for n_shot in 4
@@ -226,7 +226,7 @@ done
 #     done
 # done
 
-# # run 7: position
+# run 7: position
 # for model in claude-2
 # do
 #     for n_shot in 4

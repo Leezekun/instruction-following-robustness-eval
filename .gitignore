@@ -1,5 +1,10 @@
 # data/
 __pycache__/
 __deprecated__/
+plotting/
+human_evals/*-dev-1000.json
+human_evals/*.py
+prepare_human_evals.py
 *-dev.jsonl
 *-train.jsonl
+rename.sh
