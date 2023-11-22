@@ -19,9 +19,7 @@ if __name__ == '__main__':
 
     # arguments for injection
     parser.add_argument('--position', type=str, default='end', choices=['start', 'middle', 'end', 'random']) #
-    parser.add_argument('--attack_type', type=str, default='direct', choices=['direct', 'ignore_previous', 'ignore_next', 'ignore_both', 
-                                                                              'primary_prefix', 'primary_suffix', 'first_prefix', 'first_suffix',
-                                                                              'order_prefix']) #
+    parser.add_argument('--attack_type', type=str, default='direct', choices=['direct', 'ignore_previous', 'order_prefix']) #
 
     parser.add_argument('--task_type', type=str, default='irrelevant', choices=['irrelevant', 'relevant']) #
     parser.add_argument("--test_mode", type=str, required=True, choices=['original', 'injected', 'relevant'], help="whether to inject tasks.")
@@ -31,12 +29,6 @@ if __name__ == '__main__':
     # load attack injections
     with open("./prompts/ignore_prefix.json", 'r') as file:
         ignore_prefixes = json.load(file)
-    with open("./prompts/ignore_suffix.json", 'r') as file:
-        ignore_suffixes = json.load(file)
-    with open("./prompts/answer_primary.json", 'r') as file:
-        answer_primary = json.load(file)
-    with open("./prompts/answer_first.json", 'r') as file:
-        answer_first = json.load(file)
     with open("./prompts/answer_order.json", 'r') as file:
         answer_order = json.load(file)
 
@@ -107,23 +99,9 @@ if __name__ == '__main__':
             INJECTION_TEMPLATE = "{prefix} Question: {question} {suffix}"
             if args.attack_type == "ignore_previous":
                 injected_prefix = random.choice(ignore_prefixes)
-            elif args.attack_type == "ignore_next":
-                injected_suffix = random.choice(ignore_suffixes)
-            elif args.attack_type == "ignore_both":
-                injected_prefix = random.choice(ignore_prefixes)
-                injected_suffix = random.choice(ignore_suffixes)
-            elif args.attack_type == "first_prefix":
-                injected_prefix = random.choice(answer_first)
-            elif args.attack_type == "first_suffix":
-                injected_suffix = random.choice(answer_first)
             elif args.attack_type == "order_prefix":
                 injected_prefix = random.choice(answer_order)
-            elif args.attack_type == "primary_prefix":
-                INJECTION_TEMPLATE = "{prefix} Primary Question: {question} {suffix}"
-                injected_prefix = random.choice(answer_primary)
-            elif args.attack_type == "primary_suffix":
-                INJECTION_TEMPLATE = "{prefix} Primary Question: {question} {suffix}"
-                injected_suffix = random.choice(answer_primary)
+            
             # fill in the blank
             injection = INJECTION_TEMPLATE.format(prefix=injected_prefix, 
                                                     question=injected_question,
